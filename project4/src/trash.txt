@@ -1,0 +1,6975 @@
+Expected size: 1280 720
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.486458 , 1.79321 , 13637.2
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.450812 , 2.26588 , 38103.1
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.393227 , 1.38507 , 4521.38
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.403622 , 1.30353 , 3582.77
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.443638 , 1.21029 , 3461.62
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.464197 , 1.24911 , 2734.67
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.378277 , 1.14553 , 23708.6
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.371483 , 0.856853 , 2.60868e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.373984 , 3.52231 , 21499.7
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.458557 , 2.58981 , 14463.9
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.39158 , 1.86372 , 13386.9
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.512909 , 2.29239 , 12985.6
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.482215 , 2.09244 , 10306.7
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.423773 , 1.8341 , 9006.91
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.573003 , 2.10345 , 272.896
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.243718 , 0.98427 , 67097.8
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.245483 , 0.874259 , 2.39383e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.27307 , 1.15255 , 939424
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.387538 , 1.3181 , 652934
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.412365 , 1.35339 , 633242
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.563269 , 1.56491 , 175.72
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.412996 , 1.37291 , 667292
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.444535 , 1.41381 , 614311
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.437956 , 1.41347 , 636710
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.308265 , 0.964648 , 1.22389e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.272652 , 0.926811 , 1.28777e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.359123 , 0.717853 , 2.962e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.427996 , 1.03826 , 3.11637e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.412378 , 0.687378 , 226640
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.375203 , 0.78171 , 2.49144e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.36574 , 1.22308 , 1.2832e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.433532 , 1.48135 , 743585
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.438382 , 1.46994 , 689840
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.403202 , 1.37939 , 1.36767e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.456044 , 0.677255 , 3.05305e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.407636 , 0.750853 , 2.79106e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.385621 , 0.793189 , 2.65195e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.34245 , 0.932907 , 2.19257e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.333355 , 1.03473 , 1.87343e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.334204 , 1.11699 , 1.66776e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.339857 , 1.17668 , 1.53592e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.342625 , 0.921334 , 280372
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.375478 , 0.861564 , 2.39267e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.417143 , 0.769926 , 2.74829e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.530859 , 0.594402 , 340339
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.396871 , 1.25231 , 410769
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.391967 , 0.80739 , 2.6099e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.385041 , 0.815046 , 281250
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.375539 , 1.12953 , 336493
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.573503 , 0.559958 , 361374
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.384782 , 0.838959 , 2.58604e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.488446 , 1.64286 , 772591
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.366994 , 0.697038 , 284233
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.410048 , 0.646927 , 295127
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.40608 , 0.649362 , 293088
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.393428 , 1.2387 , 466728
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.303717 , 1.11154 , 1.98753e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.493835 , 1.54227 , 634806
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.338102 , 1.38611 , 1.29599e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.49219 , 0.630693 , 306928
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.324344 , 1.3739 , 1.32512e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.331861 , 1.42201 , 1.25863e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.3351 , 1.43514 , 1.24132e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.478295 , 1.51229 , 612838
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.481582 , 1.50157 , 600653
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.415113 , 0.683772 , 230128
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.447046 , 0.639994 , 232306
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.427033 , 0.664816 , 230490
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.415566 , 0.67822 , 229422
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.417211 , 0.67559 , 229562
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.385141 , 1.2237 , 3.42074e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.381879 , 1.21914 , 3.5002e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.381735 , 1.21488 , 3.54238e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.384985 , 1.22361 , 3.3765e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.390938 , 1.27532 , 3.04027e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.402452 , 0.754079 , 257869
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.405194 , 0.754795 , 258969
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.324989 , 0.597544 , 93865.4
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.325251 , 0.608695 , 94188.6
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.329288 , 0.61095 , 94582.9
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.349163 , 0.872327 , 2.63741e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.320843 , 0.955807 , 2.34965e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.399978 , 0.647283 , 285926
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.437188 , 0.61556 , 293760
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.353362 , 1.12022 , 360398
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.364904 , 0.875824 , 2.5061e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.477474 , 1.70371 , 868014
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.315816 , 0.901508 , 271910
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.384718 , 1.45962 , 1.14094e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.37988 , 0.956739 , 252235
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.377232 , 5.00027 , 52286.8
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.434355 , 1.37479 , 479113
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.322404 , 0.984024 , 2.2881e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.318407 , 1.06356 , 2.04547e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.338796 , 1.04754 , 350049
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.330885 , 0.905452 , 305326
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.393939 , 0.802594 , 2.57998e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.377742 , 1.20979 , 429860
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.339029 , 0.825949 , 289774
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.359845 , 0.781451 , 283615
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.368786 , 0.775137 , 282687
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.394833 , 0.749885 , 279553
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.361688 , 1.00611 , 2.08295e+06
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.496096 , 0.639656 , 349151
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.348083 , 1.18037 , 1.55532e+06
+old difference is 2.14748e+09
+new difference is 0.901879
+old difference is 0.901879
+new difference is 0.888119
+old difference is 0.888119
+new difference is 0.858097
+old difference is 0.858097
+new difference is 0.810879
+old difference is 0.810879
+new difference is 0.669006
+old difference is 0.669006
+new difference is 0.43997
+old difference is 0.43997
+new difference is 0.428031
+old difference is 0.428031
+new difference is 0.376174
+old difference is 0.376174
+new difference is 0.258084
+old difference is 0.258084
+new difference is 0.126663
+old difference is 0.126663
+new difference is 0.126659
+old difference is 0.126659
+new difference is 0.123259
+old difference is 0.123259
+new difference is 0.123247
+old difference is 0.123247
+new difference is 0.122119
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.496995
+old difference is 0.496995
+new difference is 0.486777
+old difference is 0.486777
+new difference is 0.464651
+old difference is 0.464651
+new difference is 0.430011
+old difference is 0.430011
+new difference is 0.328566
+old difference is 0.328566
+new difference is 0.189149
+old difference is 0.189149
+new difference is 0.18207
+old difference is 0.18207
+new difference is 0.140341
+old difference is 0.140341
+new difference is 0.0859498
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0678795
+old difference is 0.0678795
+new difference is 0.0644157
+old difference is 0.0644157
+new difference is 0.0562888
+old difference is 0.0562888
+new difference is 0.0461355
+old difference is 0.0461355
+new difference is 0.0201518
+old difference is 0.0201518
+new difference is 0.0112734
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0167245
+old difference is 0.0167245
+new difference is 0.0162202
+old difference is 0.0162202
+new difference is 0.0114124
+object 3 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.137237
+old difference is 0.137237
+new difference is 0.132163
+old difference is 0.132163
+new difference is 0.120459
+old difference is 0.120459
+new difference is 0.104582
+old difference is 0.104582
+new difference is 0.0602404
+old difference is 0.0602404
+new difference is 0.037032
+old difference is 0.037032
+new difference is 0.0278199
+old difference is 0.0278199
+new difference is 0.0270156
+object 4 has been classified as spatula
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.346631 , 0.932935 , 311695
+old difference is 2.14748e+09
+new difference is 0.913749
+old difference is 0.913749
+new difference is 0.899864
+old difference is 0.899864
+new difference is 0.869706
+old difference is 0.869706
+new difference is 0.821977
+old difference is 0.821977
+new difference is 0.678899
+old difference is 0.678899
+new difference is 0.444775
+old difference is 0.444775
+new difference is 0.432692
+old difference is 0.432692
+new difference is 0.38196
+old difference is 0.38196
+new difference is 0.261088
+old difference is 0.261088
+new difference is 0.124014
+old difference is 0.124014
+new difference is 0.12063
+old difference is 0.12063
+new difference is 0.119727
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.511044
+old difference is 0.511044
+new difference is 0.50084
+old difference is 0.50084
+new difference is 0.478142
+old difference is 0.478142
+new difference is 0.443839
+old difference is 0.443839
+new difference is 0.341626
+old difference is 0.341626
+new difference is 0.210752
+old difference is 0.210752
+new difference is 0.203573
+old difference is 0.203573
+new difference is 0.155602
+old difference is 0.155602
+new difference is 0.103741
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0722309
+old difference is 0.0722309
+new difference is 0.0693727
+old difference is 0.0693727
+new difference is 0.0665917
+old difference is 0.0665917
+new difference is 0.0611833
+old difference is 0.0611833
+new difference is 0.0538558
+old difference is 0.0538558
+new difference is 0.032615
+old difference is 0.032615
+new difference is 0.02903
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.02706
+old difference is 0.02706
+new difference is 0.0254758
+old difference is 0.0254758
+new difference is 0.0250656
+old difference is 0.0250656
+new difference is 0.0199019
+old difference is 0.0199019
+new difference is 0.0129006
+old difference is 0.0129006
+new difference is 0.0017855
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 4 has been classified as shovel
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.396306 , 1.24104 , 430169
+old difference is 2.14748e+09
+new difference is 0.874886
+old difference is 0.874886
+new difference is 0.861367
+old difference is 0.861367
+new difference is 0.831748
+old difference is 0.831748
+new difference is 0.785448
+old difference is 0.785448
+new difference is 0.646118
+old difference is 0.646118
+new difference is 0.425001
+old difference is 0.425001
+new difference is 0.413366
+old difference is 0.413366
+new difference is 0.360797
+old difference is 0.360797
+new difference is 0.247545
+old difference is 0.247545
+new difference is 0.12658
+old difference is 0.12658
+new difference is 0.12649
+old difference is 0.12649
+new difference is 0.123209
+old difference is 0.123209
+new difference is 0.122964
+old difference is 0.122964
+new difference is 0.121679
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.407547
+old difference is 0.407547
+new difference is 0.398325
+old difference is 0.398325
+new difference is 0.378289
+old difference is 0.378289
+new difference is 0.347244
+old difference is 0.347244
+new difference is 0.256962
+old difference is 0.256962
+new difference is 0.144468
+old difference is 0.144468
+new difference is 0.138729
+old difference is 0.138729
+new difference is 0.098511
+old difference is 0.098511
+new difference is 0.0625027
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.147294
+old difference is 0.147294
+new difference is 0.142365
+old difference is 0.142365
+new difference is 0.130129
+old difference is 0.130129
+new difference is 0.115172
+old difference is 0.115172
+new difference is 0.0711669
+old difference is 0.0711669
+new difference is 0.0491846
+old difference is 0.0491846
+new difference is 0.0434102
+object 2 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.174907
+old difference is 0.174907
+new difference is 0.168694
+old difference is 0.168694
+new difference is 0.156275
+old difference is 0.156275
+new difference is 0.135482
+old difference is 0.135482
+new difference is 0.0809434
+old difference is 0.0809434
+new difference is 0.0322056
+old difference is 0.0322056
+new difference is 0.0307726
+old difference is 0.0307726
+new difference is 0.0233267
+old difference is 0.0233267
+new difference is 0.00864988
+old difference is 0.00864988
+new difference is 0.00560006
+object 3 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0481752
+old difference is 0.0481752
+new difference is 0.0454167
+old difference is 0.0454167
+new difference is 0.0386306
+old difference is 0.0386306
+new difference is 0.0310926
+old difference is 0.0310926
+new difference is 0.0128038
+old difference is 0.0128038
+new difference is 0.0101869
+object 4 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0379376
+old difference is 0.0379376
+new difference is 0.0361821
+old difference is 0.0361821
+new difference is 0.0359712
+old difference is 0.0359712
+new difference is 0.0299211
+old difference is 0.0299211
+new difference is 0.029746
+old difference is 0.029746
+new difference is 0.0125723
+old difference is 0.0125723
+new difference is 0.00253151
+object 5 has been classified as paddle
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.492518 , 1.47686 , 548036
+old difference is 2.14748e+09
+new difference is 0.821092
+old difference is 0.821092
+new difference is 0.808085
+old difference is 0.808085
+new difference is 0.779266
+old difference is 0.779266
+new difference is 0.734947
+old difference is 0.734947
+new difference is 0.600933
+old difference is 0.600933
+new difference is 0.397415
+old difference is 0.397415
+new difference is 0.386415
+old difference is 0.386415
+new difference is 0.331747
+old difference is 0.331747
+new difference is 0.228995
+old difference is 0.228995
+new difference is 0.130438
+old difference is 0.130438
+new difference is 0.130161
+old difference is 0.130161
+new difference is 0.127108
+old difference is 0.127108
+new difference is 0.126359
+old difference is 0.126359
+new difference is 0.124721
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.252157
+old difference is 0.252157
+new difference is 0.2449
+old difference is 0.2449
+new difference is 0.229273
+old difference is 0.229273
+new difference is 0.205194
+old difference is 0.205194
+new difference is 0.137385
+old difference is 0.137385
+new difference is 0.0742357
+old difference is 0.0742357
+new difference is 0.0711982
+old difference is 0.0711982
+new difference is 0.0626937
+old difference is 0.0626937
+new difference is 0.0368898
+old difference is 0.0368898
+new difference is 0.0361179
+old difference is 0.0361179
+new difference is 0.0256516
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0164196
+old difference is 0.0164196
+new difference is 0.0153073
+old difference is 0.0153073
+new difference is 0.0121733
+old difference is 0.0121733
+new difference is 0.00168845
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 4 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 5 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0318419
+old difference is 0.0318419
+new difference is 0.029908
+old difference is 0.029908
+new difference is 0.028799
+old difference is 0.028799
+new difference is 0.0223548
+old difference is 0.0223548
+new difference is 0.0193751
+old difference is 0.0193751
+new difference is 0.00818549
+old difference is 0.00818549
+new difference is 0.00416587
+object 6 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0107448
+old difference is 0.0107448
+new difference is 0.0054791
+object 7 has been classified as donut
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.377723 , 1.24791 , 430895
+old difference is 2.14748e+09
+new difference is 0.851317
+old difference is 0.851317
+new difference is 0.837997
+old difference is 0.837997
+new difference is 0.808761
+old difference is 0.808761
+new difference is 0.763198
+old difference is 0.763198
+new difference is 0.626047
+old difference is 0.626047
+new difference is 0.410807
+old difference is 0.410807
+new difference is 0.399433
+old difference is 0.399433
+new difference is 0.346793
+old difference is 0.346793
+new difference is 0.237357
+old difference is 0.237357
+new difference is 0.124879
+old difference is 0.124879
+new difference is 0.12472
+old difference is 0.12472
+new difference is 0.121561
+old difference is 0.121561
+new difference is 0.121132
+old difference is 0.121132
+new difference is 0.119732
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.439784
+old difference is 0.439784
+new difference is 0.430173
+old difference is 0.430173
+new difference is 0.409394
+old difference is 0.409394
+new difference is 0.376909
+old difference is 0.376909
+new difference is 0.282379
+old difference is 0.282379
+new difference is 0.158358
+old difference is 0.158358
+new difference is 0.152109
+old difference is 0.152109
+new difference is 0.112073
+old difference is 0.112073
+new difference is 0.0686004
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.159142
+old difference is 0.159142
+new difference is 0.153174
+old difference is 0.153174
+new difference is 0.141602
+old difference is 0.141602
+new difference is 0.121534
+old difference is 0.121534
+new difference is 0.0702497
+old difference is 0.0702497
+new difference is 0.0235899
+old difference is 0.0235899
+new difference is 0.0225515
+old difference is 0.0225515
+new difference is 0.0164077
+old difference is 0.0164077
+new difference is 0.00427791
+old difference is 0.00427791
+new difference is 0.00321695
+object 2 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.161397
+old difference is 0.161397
+new difference is 0.155914
+old difference is 0.155914
+new difference is 0.143166
+old difference is 0.143166
+new difference is 0.125901
+old difference is 0.125901
+new difference is 0.07669
+old difference is 0.07669
+new difference is 0.0730636
+old difference is 0.0730636
+new difference is 0.0498353
+old difference is 0.0498353
+new difference is 0.0370873
+old difference is 0.0370873
+new difference is 0.0317958
+object 3 has been classified as spatula
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.320511 , 1.08413 , 357720
+old difference is 2.14748e+09
+new difference is 0.78295
+old difference is 0.78295
+new difference is 0.770275
+old difference is 0.770275
+new difference is 0.742108
+old difference is 0.742108
+new difference is 0.69901
+old difference is 0.69901
+new difference is 0.568652
+old difference is 0.568652
+new difference is 0.37473
+old difference is 0.37473
+new difference is 0.364169
+old difference is 0.364169
+new difference is 0.309534
+old difference is 0.309534
+new difference is 0.213087
+old difference is 0.213087
+new difference is 0.128629
+old difference is 0.128629
+new difference is 0.128238
+old difference is 0.128238
+new difference is 0.125396
+old difference is 0.125396
+new difference is 0.124343
+old difference is 0.124343
+new difference is 0.122517
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.554823
+old difference is 0.554823
+new difference is 0.544047
+old difference is 0.544047
+new difference is 0.520598
+old difference is 0.520598
+new difference is 0.484014
+old difference is 0.484014
+new difference is 0.376078
+old difference is 0.376078
+new difference is 0.223611
+old difference is 0.223611
+new difference is 0.215751
+old difference is 0.215751
+new difference is 0.171606
+old difference is 0.171606
+new difference is 0.107476
+old difference is 0.107476
+new difference is 0.100423
+old difference is 0.100423
+new difference is 0.0994465
+old difference is 0.0994465
+new difference is 0.0982665
+old difference is 0.0982665
+new difference is 0.0956365
+old difference is 0.0956365
+new difference is 0.0930395
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.184928
+old difference is 0.184928
+new difference is 0.178845
+old difference is 0.178845
+new difference is 0.165346
+old difference is 0.165346
+new difference is 0.145669
+old difference is 0.145669
+new difference is 0.0905074
+old difference is 0.0905074
+new difference is 0.0637088
+old difference is 0.0637088
+new difference is 0.0583505
+old difference is 0.0583505
+new difference is 0.0385068
+old difference is 0.0385068
+new difference is 0.0261363
+old difference is 0.0261363
+new difference is 0.0230059
+object 2 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.00483684
+old difference is 0.00483684
+new difference is 0.00404228
+object 3 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0346455
+old difference is 0.0346455
+new difference is 0.0338286
+old difference is 0.0338286
+new difference is 0.0330175
+old difference is 0.0330175
+new difference is 0.0315682
+old difference is 0.0315682
+new difference is 0.00667454
+old difference is 0.00667454
+new difference is 0.00131304
+object 4 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0900494
+old difference is 0.0900494
+new difference is 0.0862736
+old difference is 0.0862736
+new difference is 0.0824687
+old difference is 0.0824687
+new difference is 0.0688097
+old difference is 0.0688097
+new difference is 0.046973
+old difference is 0.046973
+new difference is 0.0165657
+old difference is 0.0165657
+new difference is 0.00446177
+old difference is 0.00446177
+new difference is 0.000852076
+object 5 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.155497
+old difference is 0.155497
+new difference is 0.150183
+old difference is 0.150183
+new difference is 0.137646
+old difference is 0.137646
+new difference is 0.12106
+old difference is 0.12106
+new difference is 0.0735232
+old difference is 0.0735232
+new difference is 0.0481604
+old difference is 0.0481604
+new difference is 0.0374093
+old difference is 0.0374093
+new difference is 0.0341099
+object 6 has been classified as spatula
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 7 has been classified as paddle
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.335901 , 1.16719 , 394424
+old difference is 2.14748e+09
+new difference is 0.893231
+old difference is 0.893231
+new difference is 0.879357
+old difference is 0.879357
+new difference is 0.84987
+old difference is 0.84987
+new difference is 0.801867
+old difference is 0.801867
+new difference is 0.659903
+old difference is 0.659903
+new difference is 0.417206
+old difference is 0.417206
+new difference is 0.405264
+old difference is 0.405264
+new difference is 0.361331
+old difference is 0.361331
+new difference is 0.238183
+old difference is 0.238183
+new difference is 0.0994067
+old difference is 0.0994067
+new difference is 0.0963687
+old difference is 0.0963687
+new difference is 0.0957603
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.520916
+old difference is 0.520916
+new difference is 0.510447
+old difference is 0.510447
+new difference is 0.487797
+old difference is 0.487797
+new difference is 0.452245
+old difference is 0.452245
+new difference is 0.347984
+old difference is 0.347984
+new difference is 0.201683
+old difference is 0.201683
+new difference is 0.194265
+old difference is 0.194265
+new difference is 0.15221
+old difference is 0.15221
+new difference is 0.0931472
+old difference is 0.0931472
+new difference is 0.0909014
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.098148
+old difference is 0.098148
+new difference is 0.0976358
+old difference is 0.0976358
+new difference is 0.0758157
+old difference is 0.0758157
+new difference is 0.0664078
+old difference is 0.0664078
+new difference is 0.0276112
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0456484
+old difference is 0.0456484
+new difference is 0.0424681
+old difference is 0.0424681
+new difference is 0.0372991
+old difference is 0.0372991
+new difference is 0.027041
+old difference is 0.027041
+new difference is 0.00786634
+old difference is 0.00786634
+new difference is 0.001671
+old difference is 0.001671
+new difference is 0.00104451
+object 3 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0918076
+old difference is 0.0918076
+new difference is 0.0895994
+old difference is 0.0895994
+new difference is 0.0818018
+old difference is 0.0818018
+new difference is 0.0796375
+old difference is 0.0796375
+new difference is 0.0731074
+old difference is 0.0731074
+new difference is 0.0303903
+old difference is 0.0303903
+new difference is 0.0208227
+object 4 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0634946
+old difference is 0.0634946
+new difference is 0.05255
+old difference is 0.05255
+new difference is 0.0292568
+object 5 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 6 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0801886
+old difference is 0.0801886
+new difference is 0.0707198
+old difference is 0.0707198
+new difference is 0.0580279
+old difference is 0.0580279
+new difference is 0.024947
+object 7 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0047109
+old difference is 0.0047109
+new difference is 0.00330009
+old difference is 0.00330009
+new difference is 6.95659e-05
+object 8 has been classified as spatula
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.396254 , 1.33174 , 481445
+old difference is 2.14748e+09
+new difference is 0.793642
+old difference is 0.793642
+new difference is 0.780472
+old difference is 0.780472
+new difference is 0.752977
+old difference is 0.752977
+new difference is 0.70727
+old difference is 0.70727
+new difference is 0.573985
+old difference is 0.573985
+new difference is 0.343327
+old difference is 0.343327
+new difference is 0.332433
+old difference is 0.332433
+new difference is 0.294927
+old difference is 0.294927
+new difference is 0.182826
+old difference is 0.182826
+new difference is 0.0719212
+old difference is 0.0719212
+new difference is 0.0718002
+old difference is 0.0718002
+new difference is 0.0694103
+old difference is 0.0694103
+new difference is 0.0690889
+old difference is 0.0690889
+new difference is 0.068048
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.404305
+old difference is 0.404305
+new difference is 0.395065
+old difference is 0.395065
+new difference is 0.375215
+old difference is 0.375215
+new difference is 0.344002
+old difference is 0.344002
+new difference is 0.253868
+old difference is 0.253868
+new difference is 0.137888
+old difference is 0.137888
+new difference is 0.132169
+old difference is 0.132169
+new difference is 0.0942395
+old difference is 0.0942395
+new difference is 0.0570716
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.132261
+old difference is 0.132261
+new difference is 0.128934
+old difference is 0.128934
+new difference is 0.128118
+old difference is 0.128118
+new difference is 0.115102
+old difference is 0.115102
+new difference is 0.101441
+old difference is 0.101441
+new difference is 0.0553081
+old difference is 0.0553081
+new difference is 0.0335501
+old difference is 0.0335501
+new difference is 0.0242386
+object 2 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0618857
+old difference is 0.0618857
+new difference is 0.058599
+old difference is 0.058599
+new difference is 0.054898
+old difference is 0.054898
+new difference is 0.0434473
+old difference is 0.0434473
+new difference is 0.0256778
+old difference is 0.0256778
+new difference is 0.0210761
+old difference is 0.0210761
+new difference is 0.0186529
+old difference is 0.0186529
+new difference is 0.000146794
+object 4 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.147329
+old difference is 0.147329
+new difference is 0.144688
+old difference is 0.144688
+new difference is 0.135162
+old difference is 0.135162
+new difference is 0.130336
+old difference is 0.130336
+new difference is 0.0926259
+old difference is 0.0926259
+new difference is 0.0573938
+old difference is 0.0573938
+new difference is 0.050469
+old difference is 0.050469
+new difference is 0.0488142
+old difference is 0.0488142
+new difference is 0.0444334
+object 5 has been classified as spatula
+old difference is 2.14748e+09
+new difference is 0.0544665
+old difference is 0.0544665
+new difference is 0.0522226
+old difference is 0.0522226
+new difference is 0.0515143
+old difference is 0.0515143
+new difference is 0.0434472
+old difference is 0.0434472
+new difference is 0.038606
+old difference is 0.038606
+new difference is 0.0100483
+old difference is 0.0100483
+new difference is 0.00779397
+object 6 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0247377
+old difference is 0.0247377
+new difference is 0.00989405
+old difference is 0.00989405
+new difference is 0.000267925
+object 7 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 8 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0801886
+old difference is 0.0801886
+new difference is 0.0707198
+old difference is 0.0707198
+new difference is 0.0580279
+old difference is 0.0580279
+new difference is 0.024947
+object 9 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0467851
+old difference is 0.0467851
+new difference is 0.0440445
+old difference is 0.0440445
+new difference is 0.037363
+old difference is 0.037363
+new difference is 0.0298574
+old difference is 0.0298574
+new difference is 0.0118719
+old difference is 0.0118719
+new difference is 0.0094184
+object 10 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 11 has been classified as paddle
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.394142 , 1.3136 , 465662
+old difference is 2.14748e+09
+new difference is 0.830689
+old difference is 0.830689
+new difference is 0.817231
+old difference is 0.817231
+new difference is 0.789036
+old difference is 0.789036
+new difference is 0.742336
+old difference is 0.742336
+new difference is 0.605677
+old difference is 0.605677
+new difference is 0.368536
+old difference is 0.368536
+new difference is 0.357236
+old difference is 0.357236
+new difference is 0.318298
+old difference is 0.318298
+new difference is 0.201244
+old difference is 0.201244
+new difference is 0.0785657
+old difference is 0.0785657
+new difference is 0.0785343
+old difference is 0.0785343
+new difference is 0.0758995
+old difference is 0.0758995
+new difference is 0.0758195
+old difference is 0.0758195
+new difference is 0.0749
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.408573
+old difference is 0.408573
+new difference is 0.399293
+old difference is 0.399293
+new difference is 0.379319
+old difference is 0.379319
+new difference is 0.347977
+old difference is 0.347977
+new difference is 0.257327
+old difference is 0.257327
+new difference is 0.140757
+old difference is 0.140757
+new difference is 0.134976
+old difference is 0.134976
+new difference is 0.09659
+old difference is 0.09659
+new difference is 0.0588117
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 2 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.146662
+old difference is 0.146662
+new difference is 0.140891
+old difference is 0.140891
+new difference is 0.130766
+old difference is 0.130766
+new difference is 0.110919
+old difference is 0.110919
+new difference is 0.0634366
+old difference is 0.0634366
+new difference is 0.00807458
+old difference is 0.00807458
+new difference is 0.00750396
+old difference is 0.00750396
+new difference is 0.000299058
+object 3 has been classified as spatula
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 4 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 5 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 6 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0530788
+old difference is 0.0530788
+new difference is 0.0510292
+old difference is 0.0510292
+new difference is 0.0465414
+old difference is 0.0465414
+new difference is 0.0444176
+old difference is 0.0444176
+new difference is 0.0400689
+old difference is 0.0400689
+new difference is 0.0277116
+object 7 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.00694448
+old difference is 0.00694448
+new difference is 0.00280862
+object 8 has been classified as donut
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.348035 , 1.17025 , 396226
+old difference is 2.14748e+09
+new difference is 0.815018
+old difference is 0.815018
+new difference is 0.802048
+old difference is 0.802048
+new difference is 0.773354
+old difference is 0.773354
+new difference is 0.729143
+old difference is 0.729143
+new difference is 0.595615
+old difference is 0.595615
+new difference is 0.392395
+old difference is 0.392395
+new difference is 0.381454
+old difference is 0.381454
+new difference is 0.327366
+old difference is 0.327366
+new difference is 0.225095
+old difference is 0.225095
+new difference is 0.1279
+old difference is 0.1279
+new difference is 0.127614
+old difference is 0.127614
+new difference is 0.12461
+old difference is 0.12461
+new difference is 0.123837
+old difference is 0.123837
+new difference is 0.122195
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.497502
+old difference is 0.497502
+new difference is 0.487285
+old difference is 0.487285
+new difference is 0.465136
+old difference is 0.465136
+new difference is 0.430511
+old difference is 0.430511
+new difference is 0.329037
+old difference is 0.329037
+new difference is 0.189976
+old difference is 0.189976
+new difference is 0.182893
+old difference is 0.182893
+new difference is 0.140909
+old difference is 0.140909
+new difference is 0.0866253
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 2 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0469868
+old difference is 0.0469868
+new difference is 0.0452592
+old difference is 0.0452592
+new difference is 0.0400988
+old difference is 0.0400988
+new difference is 0.0392779
+old difference is 0.0392779
+new difference is 0.0361144
+old difference is 0.0361144
+new difference is 0.027298
+object 3 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0176606
+old difference is 0.0176606
+new difference is 0.0164793
+old difference is 0.0164793
+new difference is 0.0129828
+old difference is 0.0129828
+new difference is 0.0015727
+object 4 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 5 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0801886
+old difference is 0.0801886
+new difference is 0.0707198
+old difference is 0.0707198
+new difference is 0.0580279
+old difference is 0.0580279
+new difference is 0.024947
+object 6 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 7 has been classified as paddle
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.326379 , 1.10545 , 373824
+old difference is 2.14748e+09
+new difference is 0.822158
+old difference is 0.822158
+new difference is 0.809086
+old difference is 0.809086
+new difference is 0.780336
+old difference is 0.780336
+new difference is 0.735684
+old difference is 0.735684
+new difference is 0.601258
+old difference is 0.601258
+new difference is 0.393184
+old difference is 0.393184
+new difference is 0.382137
+old difference is 0.382137
+new difference is 0.329515
+old difference is 0.329515
+new difference is 0.224784
+old difference is 0.224784
+new difference is 0.122823
+old difference is 0.122823
+new difference is 0.12258
+old difference is 0.12258
+new difference is 0.119578
+old difference is 0.119578
+new difference is 0.118922
+old difference is 0.118922
+new difference is 0.117381
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.542208
+old difference is 0.542208
+new difference is 0.531552
+old difference is 0.531552
+new difference is 0.508386
+old difference is 0.508386
+new difference is 0.472214
+old difference is 0.472214
+new difference is 0.365661
+old difference is 0.365661
+new difference is 0.21594
+old difference is 0.21594
+new difference is 0.208245
+old difference is 0.208245
+new difference is 0.164636
+old difference is 0.164636
+new difference is 0.102568
+old difference is 0.102568
+new difference is 0.100387
+old difference is 0.100387
+new difference is 0.0993735
+old difference is 0.0993735
+new difference is 0.098292
+old difference is 0.098292
+new difference is 0.0955615
+old difference is 0.0955615
+new difference is 0.0929129
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0847276
+old difference is 0.0847276
+new difference is 0.0820583
+old difference is 0.0820583
+new difference is 0.0814538
+old difference is 0.0814538
+new difference is 0.0713735
+old difference is 0.0713735
+new difference is 0.0632936
+old difference is 0.0632936
+new difference is 0.0508884
+old difference is 0.0508884
+new difference is 0.017221
+old difference is 0.017221
+new difference is 0.0160769
+object 2 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.23125
+old difference is 0.23125
+new difference is 0.224006
+old difference is 0.224006
+new difference is 0.210311
+old difference is 0.210311
+new difference is 0.185368
+old difference is 0.185368
+new difference is 0.120629
+old difference is 0.120629
+new difference is 0.0318884
+old difference is 0.0318884
+new difference is 0.0292403
+old difference is 0.0292403
+new difference is 0.0148325
+old difference is 0.0148325
+new difference is 0.0070709
+old difference is 0.0070709
+new difference is 0.00510027
+object 3 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0151437
+old difference is 0.0151437
+new difference is 0.00914226
+object 4 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0333952
+old difference is 0.0333952
+new difference is 0.0325271
+old difference is 0.0325271
+new difference is 0.0313881
+old difference is 0.0313881
+new difference is 0.0298307
+old difference is 0.0298307
+new difference is 0.00703509
+old difference is 0.00703509
+new difference is 0.000941791
+object 5 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0292357
+old difference is 0.0292357
+new difference is 0.0202114
+object 6 has been classified as donut
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.319609 , 1.08274 , 365100
+old difference is 2.14748e+09
+new difference is 0.802383
+old difference is 0.802383
+new difference is 0.789505
+old difference is 0.789505
+new difference is 0.761052
+old difference is 0.761052
+new difference is 0.717152
+old difference is 0.717152
+new difference is 0.584732
+old difference is 0.584732
+new difference is 0.383369
+old difference is 0.383369
+new difference is 0.372562
+old difference is 0.372562
+new difference is 0.319105
+old difference is 0.319105
+new difference is 0.218361
+old difference is 0.218361
+new difference is 0.124891
+old difference is 0.124891
+new difference is 0.124577
+old difference is 0.124577
+new difference is 0.121659
+old difference is 0.121659
+new difference is 0.120812
+old difference is 0.120812
+new difference is 0.119136
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.55669
+old difference is 0.55669
+new difference is 0.545896
+old difference is 0.545896
+new difference is 0.522407
+old difference is 0.522407
+new difference is 0.485756
+old difference is 0.485756
+new difference is 0.377611
+old difference is 0.377611
+new difference is 0.224651
+old difference is 0.224651
+new difference is 0.216765
+old difference is 0.216765
+new difference is 0.172585
+old difference is 0.172585
+new difference is 0.108115
+old difference is 0.108115
+new difference is 0.100284
+old difference is 0.100284
+new difference is 0.0993137
+old difference is 0.0993137
+new difference is 0.0981205
+old difference is 0.0981205
+new difference is 0.0955069
+old difference is 0.0955069
+new difference is 0.0929195
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.114397
+old difference is 0.114397
+new difference is 0.109892
+old difference is 0.109892
+new difference is 0.0991925
+old difference is 0.0991925
+new difference is 0.0854619
+old difference is 0.0854619
+new difference is 0.0472083
+old difference is 0.0472083
+new difference is 0.0290459
+old difference is 0.0290459
+new difference is 0.0258519
+object 2 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0235046
+old difference is 0.0235046
+new difference is 0.0151204
+object 3 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.19649
+old difference is 0.19649
+new difference is 0.19148
+old difference is 0.19148
+new difference is 0.187623
+old difference is 0.187623
+new difference is 0.16829
+old difference is 0.16829
+new difference is 0.136512
+old difference is 0.136512
+new difference is 0.0381149
+old difference is 0.0381149
+new difference is 0.0278676
+old difference is 0.0278676
+new difference is 0.00861139
+object 4 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.270679
+old difference is 0.270679
+new difference is 0.266652
+old difference is 0.266652
+new difference is 0.250339
+old difference is 0.250339
+new difference is 0.233293
+old difference is 0.233293
+new difference is 0.128701
+old difference is 0.128701
+new difference is 0.118711
+old difference is 0.118711
+new difference is 0.0941382
+old difference is 0.0941382
+new difference is 0.0665404
+old difference is 0.0665404
+new difference is 0.00560292
+object 5 has been classified as spatula
+old difference is 2.14748e+09
+new difference is 0.0217717
+old difference is 0.0217717
+new difference is 0.0209493
+old difference is 0.0209493
+new difference is 0.0197348
+old difference is 0.0197348
+new difference is 0.00666806
+old difference is 0.00666806
+new difference is 0.000202031
+object 6 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.108421
+old difference is 0.108421
+new difference is 0.103782
+old difference is 0.103782
+new difference is 0.0935548
+old difference is 0.0935548
+new difference is 0.0789781
+old difference is 0.0789781
+new difference is 0.0403759
+old difference is 0.0403759
+new difference is 0.0210703
+old difference is 0.0210703
+new difference is 0.0147319
+object 7 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.148054
+old difference is 0.148054
+new difference is 0.133181
+old difference is 0.133181
+new difference is 0.118059
+old difference is 0.118059
+new difference is 0.0691364
+object 8 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 9 has been classified as shovel
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.317732 , 1.07437 , 361677
+old difference is 2.14748e+09
+new difference is 0.793585
+old difference is 0.793585
+new difference is 0.780794
+old difference is 0.780794
+new difference is 0.752476
+old difference is 0.752476
+new difference is 0.708914
+old difference is 0.708914
+new difference is 0.577397
+old difference is 0.577397
+new difference is 0.379054
+old difference is 0.379054
+new difference is 0.368355
+old difference is 0.368355
+new difference is 0.314524
+old difference is 0.314524
+new difference is 0.215574
+old difference is 0.215574
+new difference is 0.125927
+old difference is 0.125927
+new difference is 0.125581
+old difference is 0.125581
+new difference is 0.122702
+old difference is 0.122702
+new difference is 0.121768
+old difference is 0.121768
+new difference is 0.120032
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.560833
+old difference is 0.560833
+new difference is 0.550002
+old difference is 0.550002
+new difference is 0.526419
+old difference is 0.526419
+new difference is 0.489639
+old difference is 0.489639
+new difference is 0.381049
+old difference is 0.381049
+new difference is 0.227269
+old difference is 0.227269
+new difference is 0.21933
+old difference is 0.21933
+new difference is 0.17494
+old difference is 0.17494
+new difference is 0.109829
+old difference is 0.109829
+new difference is 0.100463
+old difference is 0.100463
+new difference is 0.0995047
+old difference is 0.0995047
+new difference is 0.0982784
+old difference is 0.0982784
+new difference is 0.0956962
+old difference is 0.0956962
+new difference is 0.093124
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0696567
+old difference is 0.0696567
+new difference is 0.0665622
+old difference is 0.0665622
+new difference is 0.0657632
+old difference is 0.0657632
+new difference is 0.0583642
+old difference is 0.0583642
+new difference is 0.0499498
+old difference is 0.0499498
+new difference is 0.0268077
+old difference is 0.0268077
+new difference is 0.0211549
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0720663
+old difference is 0.0720663
+new difference is 0.0680885
+old difference is 0.0680885
+new difference is 0.060344
+old difference is 0.060344
+new difference is 0.0476353
+old difference is 0.0476353
+new difference is 0.018133
+old difference is 0.018133
+new difference is 0.00478519
+old difference is 0.00478519
+new difference is 0.00224915
+object 3 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0722861
+old difference is 0.0722861
+new difference is 0.0597175
+old difference is 0.0597175
+new difference is 0.0392938
+object 4 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.670775
+old difference is 0.670775
+new difference is 0.658418
+old difference is 0.658418
+new difference is 0.63719
+old difference is 0.63719
+new difference is 0.592242
+old difference is 0.592242
+new difference is 0.475081
+old difference is 0.475081
+new difference is 0.204337
+old difference is 0.204337
+new difference is 0.195429
+old difference is 0.195429
+new difference is 0.185273
+old difference is 0.185273
+new difference is 0.175866
+old difference is 0.175866
+new difference is 0.0923659
+old difference is 0.0923659
+new difference is 0.000656947
+old difference is 0.000656947
+new difference is 0.000544925
+old difference is 0.000544925
+new difference is 0.000494345
+object 5 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.465771
+old difference is 0.465771
+new difference is 0.455543
+old difference is 0.455543
+new difference is 0.435246
+old difference is 0.435246
+new difference is 0.399681
+old difference is 0.399681
+new difference is 0.300959
+old difference is 0.300959
+new difference is 0.13603
+old difference is 0.13603
+new difference is 0.129298
+old difference is 0.129298
+new difference is 0.106881
+old difference is 0.106881
+new difference is 0.0452621
+object 6 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0132457
+old difference is 0.0132457
+new difference is 0.012308
+old difference is 0.012308
+new difference is 0.0100784
+old difference is 0.0100784
+new difference is 0.00235826
+object 7 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0722861
+old difference is 0.0722861
+new difference is 0.0597175
+old difference is 0.0597175
+new difference is 0.0392938
+object 8 has been classified as sander
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.315605 , 1.05235 , 352725
+old difference is 2.14748e+09
+new difference is 0.808759
+old difference is 0.808759
+new difference is 0.795815
+old difference is 0.795815
+new difference is 0.767271
+old difference is 0.767271
+new difference is 0.723108
+old difference is 0.723108
+new difference is 0.590018
+old difference is 0.590018
+new difference is 0.386207
+old difference is 0.386207
+new difference is 0.375319
+old difference is 0.375319
+new difference is 0.322263
+old difference is 0.322263
+new difference is 0.220111
+old difference is 0.220111
+new difference is 0.123697
+old difference is 0.123697
+new difference is 0.123408
+old difference is 0.123408
+new difference is 0.120466
+old difference is 0.120466
+new difference is 0.119686
+old difference is 0.119686
+new difference is 0.11806
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.566118
+old difference is 0.566118
+new difference is 0.555246
+old difference is 0.555246
+new difference is 0.531531
+old difference is 0.531531
+new difference is 0.494628
+old difference is 0.494628
+new difference is 0.385511
+old difference is 0.385511
+new difference is 0.231281
+old difference is 0.231281
+new difference is 0.223277
+old difference is 0.223277
+new difference is 0.178333
+old difference is 0.178333
+new difference is 0.112654
+old difference is 0.112654
+new difference is 0.101743
+old difference is 0.101743
+new difference is 0.100796
+old difference is 0.100796
+new difference is 0.0995191
+old difference is 0.0995191
+new difference is 0.096965
+old difference is 0.096965
+new difference is 0.0943995
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.106044
+old difference is 0.106044
+new difference is 0.102167
+old difference is 0.102167
+new difference is 0.101308
+old difference is 0.101308
+new difference is 0.0919188
+old difference is 0.0919188
+new difference is 0.0808702
+old difference is 0.0808702
+new difference is 0.048325
+old difference is 0.048325
+new difference is 0.035684
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0292357
+old difference is 0.0292357
+new difference is 0.0202114
+object 3 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.100664
+old difference is 0.100664
+new difference is 0.0960966
+old difference is 0.0960966
+new difference is 0.0864102
+old difference is 0.0864102
+new difference is 0.0719072
+old difference is 0.0719072
+new difference is 0.0347105
+old difference is 0.0347105
+new difference is 0.0160712
+old difference is 0.0160712
+new difference is 0.00948812
+object 4 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.144997
+old difference is 0.144997
+new difference is 0.144654
+old difference is 0.144654
+new difference is 0.113132
+old difference is 0.113132
+new difference is 0.0946071
+old difference is 0.0946071
+new difference is 0.05256
+object 5 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.440662
+old difference is 0.440662
+new difference is 0.430713
+old difference is 0.430713
+new difference is 0.410994
+old difference is 0.410994
+new difference is 0.376443
+old difference is 0.376443
+new difference is 0.280841
+old difference is 0.280841
+new difference is 0.123596
+old difference is 0.123596
+new difference is 0.117238
+old difference is 0.117238
+new difference is 0.0951512
+old difference is 0.0951512
+new difference is 0.0387289
+object 6 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 7 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0371554
+old difference is 0.0371554
+new difference is 0.0344416
+old difference is 0.0344416
+new difference is 0.030881
+old difference is 0.030881
+new difference is 0.0220079
+old difference is 0.0220079
+new difference is 0.0090312
+old difference is 0.0090312
+new difference is 0.00702708
+old difference is 0.00702708
+new difference is 0.00312346
+old difference is 0.00312346
+new difference is 0.00094572
+old difference is 0.00094572
+new difference is 0.000544255
+object 8 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 9 has been classified as paddle
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.416105 , 1.52232 , 971321
+old difference is 2.14748e+09
+new difference is 0.761908
+old difference is 0.761908
+new difference is 0.749383
+old difference is 0.749383
+new difference is 0.721635
+old difference is 0.721635
+new difference is 0.679029
+old difference is 0.679029
+new difference is 0.550515
+old difference is 0.550515
+new difference is 0.359215
+old difference is 0.359215
+new difference is 0.348876
+old difference is 0.348876
+new difference is 0.295568
+old difference is 0.295568
+new difference is 0.20149
+old difference is 0.20149
+new difference is 0.122986
+old difference is 0.122986
+new difference is 0.122552
+old difference is 0.122552
+new difference is 0.119864
+old difference is 0.119864
+new difference is 0.118694
+old difference is 0.118694
+new difference is 0.116822
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.365062
+old difference is 0.365062
+new difference is 0.356203
+old difference is 0.356203
+new difference is 0.337556
+old difference is 0.337556
+new difference is 0.307524
+old difference is 0.307524
+new difference is 0.222276
+old difference is 0.222276
+new difference is 0.111072
+old difference is 0.111072
+new difference is 0.105944
+old difference is 0.105944
+new difference is 0.0728153
+old difference is 0.0728153
+new difference is 0.0411358
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0783723
+old difference is 0.0783723
+new difference is 0.0750287
+old difference is 0.0750287
+new difference is 0.0745462
+old difference is 0.0745462
+new difference is 0.0662809
+old difference is 0.0662809
+new difference is 0.0569795
+old difference is 0.0569795
+new difference is 0.0310028
+old difference is 0.0310028
+new difference is 0.0231336
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0564959
+old difference is 0.0564959
+new difference is 0.0530364
+old difference is 0.0530364
+new difference is 0.0460242
+old difference is 0.0460242
+new difference is 0.0353583
+old difference is 0.0353583
+new difference is 0.011122
+old difference is 0.011122
+new difference is 0.00235842
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0801886
+old difference is 0.0801886
+new difference is 0.0707198
+old difference is 0.0707198
+new difference is 0.0580279
+old difference is 0.0580279
+new difference is 0.024947
+object 4 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.142112
+old difference is 0.142112
+new difference is 0.140308
+old difference is 0.140308
+new difference is 0.135603
+old difference is 0.135603
+new difference is 0.124173
+old difference is 0.124173
+new difference is 0.0729495
+old difference is 0.0729495
+new difference is 0.0610287
+old difference is 0.0610287
+new difference is 0.0483315
+object 5 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.434961
+old difference is 0.434961
+new difference is 0.42507
+old difference is 0.42507
+new difference is 0.405525
+old difference is 0.405525
+new difference is 0.371158
+old difference is 0.371158
+new difference is 0.276288
+old difference is 0.276288
+new difference is 0.119881
+old difference is 0.119881
+new difference is 0.113612
+old difference is 0.113612
+new difference is 0.0921709
+old difference is 0.0921709
+new difference is 0.0366153
+object 6 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 7 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 8 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0177712
+old difference is 0.0177712
+new difference is 0.0175572
+old difference is 0.0175572
+new difference is 0.00209401
+object 9 has been classified as paddle
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.423468 , 1.54306 , 950024
+old difference is 2.14748e+09
+new difference is 0.761254
+old difference is 0.761254
+new difference is 0.748741
+old difference is 0.748741
+new difference is 0.720997
+old difference is 0.720997
+new difference is 0.678441
+old difference is 0.678441
+new difference is 0.550022
+old difference is 0.550022
+new difference is 0.359308
+old difference is 0.359308
+new difference is 0.34898
+old difference is 0.34898
+new difference is 0.295476
+old difference is 0.295476
+new difference is 0.201685
+old difference is 0.201685
+new difference is 0.123724
+old difference is 0.123724
+new difference is 0.123285
+old difference is 0.123285
+new difference is 0.120595
+old difference is 0.120595
+new difference is 0.119411
+old difference is 0.119411
+new difference is 0.117527
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.352533
+old difference is 0.352533
+new difference is 0.343824
+old difference is 0.343824
+new difference is 0.32552
+old difference is 0.32552
+new difference is 0.296016
+old difference is 0.296016
+new difference is 0.212492
+old difference is 0.212492
+new difference is 0.104962
+old difference is 0.104962
+new difference is 0.100042
+old difference is 0.100042
+new difference is 0.0674333
+old difference is 0.0674333
+new difference is 0.0384166
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.105631
+old difference is 0.105631
+new difference is 0.101551
+old difference is 0.101551
+new difference is 0.0912706
+old difference is 0.0912706
+new difference is 0.0793048
+old difference is 0.0793048
+new difference is 0.0450943
+old difference is 0.0450943
+new difference is 0.0306833
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0332102
+old difference is 0.0332102
+new difference is 0.0317213
+old difference is 0.0317213
+new difference is 0.0277426
+old difference is 0.0277426
+new difference is 0.0267201
+old difference is 0.0267201
+new difference is 0.0241904
+old difference is 0.0241904
+new difference is 0.0187871
+object 3 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.104383
+old difference is 0.104383
+new difference is 0.0996471
+old difference is 0.0996471
+new difference is 0.0899765
+old difference is 0.0899765
+new difference is 0.0746893
+old difference is 0.0746893
+new difference is 0.0361727
+old difference is 0.0361727
+new difference is 0.0322141
+old difference is 0.0322141
+new difference is 0.0160629
+old difference is 0.0160629
+new difference is 0.00694114
+object 4 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 5 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.255513
+old difference is 0.255513
+new difference is 0.255087
+old difference is 0.255087
+new difference is 0.19518
+old difference is 0.19518
+new difference is 0.177961
+old difference is 0.177961
+new difference is 0.12452
+old difference is 0.12452
+new difference is 0.0920101
+object 6 has been classified as spatula
+old difference is 2.14748e+09
+new difference is 0.449278
+old difference is 0.449278
+new difference is 0.43924
+old difference is 0.43924
+new difference is 0.419278
+old difference is 0.419278
+new difference is 0.384429
+old difference is 0.384429
+new difference is 0.287738
+old difference is 0.287738
+new difference is 0.128805
+old difference is 0.128805
+new difference is 0.122315
+old difference is 0.122315
+new difference is 0.0995274
+old difference is 0.0995274
+new difference is 0.0416542
+object 7 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0637787
+old difference is 0.0637787
+new difference is 0.0603237
+old difference is 0.0603237
+new difference is 0.0525111
+old difference is 0.0525111
+new difference is 0.0422485
+old difference is 0.0422485
+new difference is 0.0168184
+old difference is 0.0168184
+new difference is 0.00803908
+object 8 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 9 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0131217
+old difference is 0.0131217
+new difference is 0.0122763
+old difference is 0.0122763
+new difference is 0.0105922
+old difference is 0.0105922
+new difference is 0.00983703
+old difference is 0.00983703
+new difference is 0.00214468
+object 10 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 11 has been classified as paddle
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.397323 , 1.4921 , 1.02253e+06
+old difference is 2.14748e+09
+new difference is 0.792063
+old difference is 0.792063
+new difference is 0.779211
+old difference is 0.779211
+new difference is 0.751037
+old difference is 0.751037
+new difference is 0.707129
+old difference is 0.707129
+new difference is 0.575352
+old difference is 0.575352
+new difference is 0.371709
+old difference is 0.371709
+new difference is 0.360981
+old difference is 0.360981
+new difference is 0.309874
+old difference is 0.309874
+new difference is 0.20879
+old difference is 0.20879
+new difference is 0.115731
+old difference is 0.115731
+new difference is 0.115422
+old difference is 0.115422
+new difference is 0.112626
+old difference is 0.112626
+new difference is 0.111791
+old difference is 0.111791
+new difference is 0.110169
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.397364
+old difference is 0.397364
+new difference is 0.388119
+old difference is 0.388119
+new difference is 0.368644
+old difference is 0.368644
+new difference is 0.337223
+old difference is 0.337223
+new difference is 0.247615
+old difference is 0.247615
+new difference is 0.126176
+old difference is 0.126176
+new difference is 0.120525
+old difference is 0.120525
+new difference is 0.0866416
+old difference is 0.0866416
+new difference is 0.0478848
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0720905
+old difference is 0.0720905
+new difference is 0.0690577
+old difference is 0.0690577
+new difference is 0.0674255
+old difference is 0.0674255
+new difference is 0.0607655
+old difference is 0.0607655
+new difference is 0.0526808
+old difference is 0.0526808
+new difference is 0.0298866
+old difference is 0.0298866
+new difference is 0.0247666
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0103583
+old difference is 0.0103583
+new difference is 0.00513743
+object 4 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0787542
+old difference is 0.0787542
+new difference is 0.0748086
+old difference is 0.0748086
+new difference is 0.0661647
+old difference is 0.0661647
+new difference is 0.0540345
+old difference is 0.0540345
+new difference is 0.0234079
+old difference is 0.0234079
+new difference is 0.0102802
+object 5 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.315821
+old difference is 0.315821
+new difference is 0.307608
+old difference is 0.307608
+new difference is 0.290241
+old difference is 0.290241
+new difference is 0.262579
+old difference is 0.262579
+new difference is 0.184459
+old difference is 0.184459
+new difference is 0.0917815
+old difference is 0.0917815
+new difference is 0.0875086
+old difference is 0.0875086
+new difference is 0.054555
+old difference is 0.054555
+new difference is 0.035101
+object 6 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.255521
+old difference is 0.255521
+new difference is 0.222056
+old difference is 0.222056
+new difference is 0.162098
+old difference is 0.162098
+new difference is 0.121864
+object 7 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.373613
+old difference is 0.373613
+new difference is 0.364402
+old difference is 0.364402
+new difference is 0.346716
+old difference is 0.346716
+new difference is 0.314599
+old difference is 0.314599
+new difference is 0.228015
+old difference is 0.228015
+new difference is 0.0841312
+old difference is 0.0841312
+new difference is 0.0788614
+old difference is 0.0788614
+new difference is 0.0629481
+old difference is 0.0629481
+new difference is 0.0183141
+object 8 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 9 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 10 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0184764
+old difference is 0.0184764
+new difference is 0.0171551
+old difference is 0.0171551
+new difference is 0.0168374
+old difference is 0.0168374
+new difference is 0.0128429
+old difference is 0.0128429
+new difference is 0.00216194
+object 11 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0867518
+old difference is 0.0867518
+new difference is 0.0808629
+old difference is 0.0808629
+new difference is 0.0422694
+old difference is 0.0422694
+new difference is 0.0188288
+object 12 has been classified as sander
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.415465 , 1.53144 , 969925
+old difference is 2.14748e+09
+new difference is 0.798301
+old difference is 0.798301
+new difference is 0.785407
+old difference is 0.785407
+new difference is 0.757106
+old difference is 0.757106
+new difference is 0.713062
+old difference is 0.713062
+new difference is 0.580752
+old difference is 0.580752
+new difference is 0.376471
+old difference is 0.376471
+new difference is 0.365679
+old difference is 0.365679
+new difference is 0.314117
+old difference is 0.314117
+new difference is 0.212391
+old difference is 0.212391
+new difference is 0.117672
+old difference is 0.117672
+new difference is 0.117374
+old difference is 0.117374
+new difference is 0.114532
+old difference is 0.114532
+new difference is 0.113729
+old difference is 0.113729
+new difference is 0.112118
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.365862
+old difference is 0.365862
+new difference is 0.356988
+old difference is 0.356988
+new difference is 0.338334
+old difference is 0.338334
+new difference is 0.308236
+old difference is 0.308236
+new difference is 0.222857
+old difference is 0.222857
+new difference is 0.110918
+old difference is 0.110918
+new difference is 0.105774
+old difference is 0.105774
+new difference is 0.0728763
+old difference is 0.0728763
+new difference is 0.040828
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.138765
+old difference is 0.138765
+new difference is 0.134006
+old difference is 0.134006
+new difference is 0.122145
+old difference is 0.122145
+new difference is 0.107796
+old difference is 0.107796
+new difference is 0.065727
+old difference is 0.065727
+new difference is 0.0452613
+old difference is 0.0452613
+new difference is 0.0411111
+object 2 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0251251
+old difference is 0.0251251
+new difference is 0.0229615
+old difference is 0.0229615
+new difference is 0.0182531
+old difference is 0.0182531
+new difference is 0.0124685
+old difference is 0.0124685
+new difference is 0.00212406
+object 3 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.177981
+old difference is 0.177981
+new difference is 0.177253
+old difference is 0.177253
+new difference is 0.126882
+old difference is 0.126882
+new difference is 0.125226
+old difference is 0.125226
+new difference is 0.0745359
+object 4 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.253585
+old difference is 0.253585
+new difference is 0.246021
+old difference is 0.246021
+new difference is 0.231403
+old difference is 0.231403
+new difference is 0.205423
+old difference is 0.205423
+new difference is 0.136708
+old difference is 0.136708
+new difference is 0.0426967
+old difference is 0.0426967
+new difference is 0.0395685
+old difference is 0.0395685
+new difference is 0.0220736
+old difference is 0.0220736
+new difference is 0.00934119
+object 5 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.057388
+old difference is 0.057388
+new difference is 0.0544969
+old difference is 0.0544969
+new difference is 0.0544934
+old difference is 0.0544934
+new difference is 0.0470696
+old difference is 0.0470696
+new difference is 0.0392261
+old difference is 0.0392261
+new difference is 0.0188933
+old difference is 0.0188933
+new difference is 0.015073
+object 6 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 7 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0141325
+old difference is 0.0141325
+new difference is 0.0129833
+old difference is 0.0129833
+new difference is 0.0127643
+old difference is 0.0127643
+new difference is 0.00951696
+old difference is 0.00951696
+new difference is 0.00305233
+object 8 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.148054
+old difference is 0.148054
+new difference is 0.133181
+old difference is 0.133181
+new difference is 0.118059
+old difference is 0.118059
+new difference is 0.0691364
+object 9 has been classified as sander
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.390116 , 1.48805 , 1.04069e+06
+old difference is 2.14748e+09
+new difference is 0.743431
+old difference is 0.743431
+new difference is 0.73111
+old difference is 0.73111
+new difference is 0.703636
+old difference is 0.703636
+new difference is 0.661839
+old difference is 0.661839
+new difference is 0.535371
+old difference is 0.535371
+new difference is 0.351682
+old difference is 0.351682
+new difference is 0.341587
+old difference is 0.341587
+new difference is 0.286976
+old difference is 0.286976
+new difference is 0.197245
+old difference is 0.197245
+new difference is 0.127802
+old difference is 0.127802
+new difference is 0.127292
+old difference is 0.127292
+new difference is 0.124673
+old difference is 0.124673
+new difference is 0.123295
+old difference is 0.123295
+new difference is 0.121269
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.409902
+old difference is 0.409902
+new difference is 0.400507
+old difference is 0.400507
+new difference is 0.38073
+old difference is 0.38073
+new difference is 0.348763
+old difference is 0.348763
+new difference is 0.257496
+old difference is 0.257496
+new difference is 0.131842
+old difference is 0.131842
+new difference is 0.125991
+old difference is 0.125991
+new difference is 0.0920094
+old difference is 0.0920094
+new difference is 0.0504421
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.196749
+old difference is 0.196749
+new difference is 0.190551
+old difference is 0.190551
+new difference is 0.176528
+old difference is 0.176528
+new difference is 0.156569
+old difference is 0.156569
+new difference is 0.0996825
+old difference is 0.0996825
+new difference is 0.073595
+old difference is 0.073595
+new difference is 0.0664811
+old difference is 0.0664811
+new difference is 0.0461954
+old difference is 0.0461954
+new difference is 0.0327013
+old difference is 0.0327013
+new difference is 0.0285411
+object 2 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.109125
+old difference is 0.109125
+new difference is 0.104944
+old difference is 0.104944
+new difference is 0.0944833
+old difference is 0.0944833
+new difference is 0.0821348
+old difference is 0.0821348
+new difference is 0.0468363
+old difference is 0.0468363
+new difference is 0.0315246
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 4 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.147294
+old difference is 0.147294
+new difference is 0.142365
+old difference is 0.142365
+new difference is 0.130129
+old difference is 0.130129
+new difference is 0.115172
+old difference is 0.115172
+new difference is 0.0711669
+old difference is 0.0711669
+new difference is 0.0491846
+old difference is 0.0491846
+new difference is 0.0434102
+object 5 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.242693
+old difference is 0.242693
+new difference is 0.235826
+old difference is 0.235826
+new difference is 0.220176
+old difference is 0.220176
+new difference is 0.197908
+old difference is 0.197908
+new difference is 0.13318
+old difference is 0.13318
+new difference is 0.0920341
+old difference is 0.0920341
+new difference is 0.0893573
+old difference is 0.0893573
+new difference is 0.0677469
+old difference is 0.0677469
+new difference is 0.0468597
+old difference is 0.0468597
+new difference is 0.0377731
+object 6 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.155988
+old difference is 0.155988
+new difference is 0.155077
+old difference is 0.155077
+new difference is 0.105643
+old difference is 0.105643
+new difference is 0.0620619
+old difference is 0.0620619
+new difference is 0.060919
+object 7 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.179081
+old difference is 0.179081
+new difference is 0.17276
+old difference is 0.17276
+new difference is 0.160365
+old difference is 0.160365
+new difference is 0.139062
+old difference is 0.139062
+new difference is 0.0836956
+old difference is 0.0836956
+new difference is 0.0286117
+old difference is 0.0286117
+new difference is 0.0270821
+old difference is 0.0270821
+new difference is 0.0234686
+old difference is 0.0234686
+new difference is 0.00741683
+old difference is 0.00741683
+new difference is 0.00378339
+object 8 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.147294
+old difference is 0.147294
+new difference is 0.142365
+old difference is 0.142365
+new difference is 0.130129
+old difference is 0.130129
+new difference is 0.115172
+old difference is 0.115172
+new difference is 0.0711669
+old difference is 0.0711669
+new difference is 0.0491846
+old difference is 0.0491846
+new difference is 0.0434102
+object 9 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0235046
+old difference is 0.0235046
+new difference is 0.0151204
+object 10 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0179853
+old difference is 0.0179853
+new difference is 0.0166395
+old difference is 0.0166395
+new difference is 0.0162078
+old difference is 0.0162078
+new difference is 0.0121546
+old difference is 0.0121546
+new difference is 0.00257583
+object 11 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0425312
+old difference is 0.0425312
+new difference is 0.0404256
+old difference is 0.0404256
+new difference is 0.0380416
+old difference is 0.0380416
+new difference is 0.0343105
+old difference is 0.0343105
+new difference is 0.0294662
+old difference is 0.0294662
+new difference is 0.0174246
+object 12 has been classified as donut
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.394923 , 1.49995 , 1.02462e+06
+old difference is 2.14748e+09
+new difference is 0.737975
+old difference is 0.737975
+new difference is 0.72572
+old difference is 0.72572
+new difference is 0.698321
+old difference is 0.698321
+new difference is 0.656794
+old difference is 0.656794
+new difference is 0.53097
+old difference is 0.53097
+new difference is 0.34994
+old difference is 0.34994
+new difference is 0.339922
+old difference is 0.339922
+new difference is 0.284746
+old difference is 0.284746
+new difference is 0.196479
+old difference is 0.196479
+new difference is 0.130026
+old difference is 0.130026
+new difference is 0.12949
+old difference is 0.12949
+new difference is 0.126887
+old difference is 0.126887
+new difference is 0.125439
+old difference is 0.125439
+new difference is 0.123359
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.401254
+old difference is 0.401254
+new difference is 0.391957
+old difference is 0.391957
+new difference is 0.372401
+old difference is 0.372401
+new difference is 0.340781
+old difference is 0.340781
+new difference is 0.250638
+old difference is 0.250638
+new difference is 0.127445
+old difference is 0.127445
+new difference is 0.121729
+old difference is 0.121729
+new difference is 0.0880448
+old difference is 0.0880448
+new difference is 0.0482365
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.155451
+old difference is 0.155451
+new difference is 0.150112
+old difference is 0.150112
+new difference is 0.137589
+old difference is 0.137589
+new difference is 0.120883
+old difference is 0.120883
+new difference is 0.0731692
+old difference is 0.0731692
+new difference is 0.0475917
+old difference is 0.0475917
+new difference is 0.036442
+old difference is 0.036442
+new difference is 0.0328244
+object 2 has been classified as spatula
+old difference is 2.14748e+09
+new difference is 0.152527
+old difference is 0.152527
+new difference is 0.147511
+old difference is 0.147511
+new difference is 0.135052
+old difference is 0.135052
+new difference is 0.119804
+old difference is 0.119804
+new difference is 0.0747648
+old difference is 0.0747648
+new difference is 0.0520125
+old difference is 0.0520125
+new difference is 0.0455003
+object 3 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0332101
+old difference is 0.0332101
+new difference is 0.0317213
+old difference is 0.0317213
+new difference is 0.0277426
+old difference is 0.0277426
+new difference is 0.0267201
+old difference is 0.0267201
+new difference is 0.0241904
+old difference is 0.0241904
+new difference is 0.0187871
+object 4 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.221065
+old difference is 0.221065
+new difference is 0.21426
+old difference is 0.21426
+new difference is 0.199686
+old difference is 0.199686
+new difference is 0.17719
+old difference is 0.17719
+new difference is 0.114609
+old difference is 0.114609
+new difference is 0.0622713
+old difference is 0.0622713
+new difference is 0.0598627
+old difference is 0.0598627
+new difference is 0.0481016
+old difference is 0.0481016
+new difference is 0.0273235
+old difference is 0.0273235
+new difference is 0.0193804
+object 5 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.151609
+old difference is 0.151609
+new difference is 0.146151
+old difference is 0.146151
+new difference is 0.133925
+old difference is 0.133925
+new difference is 0.116524
+old difference is 0.116524
+new difference is 0.0683112
+old difference is 0.0683112
+new difference is 0.0589461
+old difference is 0.0589461
+new difference is 0.0417073
+old difference is 0.0417073
+new difference is 0.0280568
+old difference is 0.0280568
+new difference is 0.022749
+object 6 has been classified as spatula
+old difference is 2.14748e+09
+new difference is 0.264048
+old difference is 0.264048
+new difference is 0.263429
+old difference is 0.263429
+new difference is 0.196582
+old difference is 0.196582
+new difference is 0.18807
+old difference is 0.18807
+new difference is 0.131279
+old difference is 0.131279
+new difference is 0.127388
+old difference is 0.127388
+new difference is 0.0849011
+object 7 has been classified as spatula
+old difference is 2.14748e+09
+new difference is 0.16141
+old difference is 0.16141
+new difference is 0.155423
+old difference is 0.155423
+new difference is 0.143618
+old difference is 0.143618
+new difference is 0.123573
+old difference is 0.123573
+new difference is 0.0717793
+old difference is 0.0717793
+new difference is 0.0272266
+old difference is 0.0272266
+new difference is 0.0261248
+old difference is 0.0261248
+new difference is 0.0180363
+old difference is 0.0180363
+new difference is 0.00581174
+old difference is 0.00581174
+new difference is 0.0044719
+object 8 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.460655
+old difference is 0.460655
+new difference is 0.450682
+old difference is 0.450682
+new difference is 0.429713
+old difference is 0.429713
+new difference is 0.395649
+old difference is 0.395649
+new difference is 0.297935
+old difference is 0.297935
+new difference is 0.156373
+old difference is 0.156373
+new difference is 0.149748
+old difference is 0.149748
+new difference is 0.115105
+old difference is 0.115105
+new difference is 0.0627898
+object 9 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 10 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0197229
+old difference is 0.0197229
+new difference is 0.0183219
+old difference is 0.0183219
+new difference is 0.0178791
+old difference is 0.0178791
+new difference is 0.0135763
+old difference is 0.0135763
+new difference is 0.00229575
+object 11 has been classified as paddle
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.406058 , 1.51883 , 993357
+old difference is 2.14748e+09
+new difference is 0.739132
+old difference is 0.739132
+new difference is 0.726863
+old difference is 0.726863
+new difference is 0.699449
+old difference is 0.699449
+new difference is 0.657861
+old difference is 0.657861
+new difference is 0.531897
+old difference is 0.531897
+new difference is 0.350264
+old difference is 0.350264
+new difference is 0.340229
+old difference is 0.340229
+new difference is 0.285191
+old difference is 0.285191
+new difference is 0.196596
+old difference is 0.196596
+new difference is 0.12948
+old difference is 0.12948
+new difference is 0.128949
+old difference is 0.128949
+new difference is 0.126344
+old difference is 0.126344
+new difference is 0.124911
+old difference is 0.124911
+new difference is 0.122843
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.381816
+old difference is 0.381816
+new difference is 0.372748
+old difference is 0.372748
+new difference is 0.353685
+old difference is 0.353685
+new difference is 0.322886
+old difference is 0.322886
+new difference is 0.235329
+old difference is 0.235329
+new difference is 0.118167
+old difference is 0.118167
+new difference is 0.112762
+old difference is 0.112762
+new difference is 0.0795498
+old difference is 0.0795498
+new difference is 0.0439253
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.189062
+old difference is 0.189062
+new difference is 0.18313
+old difference is 0.18313
+new difference is 0.169289
+old difference is 0.169289
+new difference is 0.150473
+old difference is 0.150473
+new difference is 0.0959926
+old difference is 0.0959926
+new difference is 0.0822575
+old difference is 0.0822575
+new difference is 0.0651335
+old difference is 0.0651335
+new difference is 0.0483656
+old difference is 0.0483656
+new difference is 0.0381075
+old difference is 0.0381075
+new difference is 0.0355631
+object 2 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.200044
+old difference is 0.200044
+new difference is 0.19971
+old difference is 0.19971
+new difference is 0.154502
+old difference is 0.154502
+new difference is 0.134214
+old difference is 0.134214
+new difference is 0.0868341
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.162903
+old difference is 0.162903
+new difference is 0.156887
+old difference is 0.156887
+new difference is 0.14503
+old difference is 0.14503
+new difference is 0.124878
+old difference is 0.124878
+new difference is 0.0727744
+old difference is 0.0727744
+new difference is 0.0273567
+old difference is 0.0273567
+new difference is 0.0262178
+old difference is 0.0262178
+new difference is 0.0184829
+old difference is 0.0184829
+new difference is 0.00593254
+old difference is 0.00593254
+new difference is 0.0043945
+object 4 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 5 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0109914
+old difference is 0.0109914
+new difference is 0.0108717
+old difference is 0.0108717
+new difference is 0.00373921
+old difference is 0.00373921
+new difference is 0.00215823
+object 6 has been classified as sander
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.424011 , 1.5453 , 954429
+old difference is 2.14748e+09
+new difference is 0.81013
+old difference is 0.81013
+new difference is 0.797156
+old difference is 0.797156
+new difference is 0.768618
+old difference is 0.768618
+new difference is 0.724314
+old difference is 0.724314
+new difference is 0.590993
+old difference is 0.590993
+new difference is 0.385434
+old difference is 0.385434
+new difference is 0.37452
+old difference is 0.37452
+new difference is 0.322137
+old difference is 0.322137
+new difference is 0.21917
+old difference is 0.21917
+new difference is 0.121271
+old difference is 0.121271
+new difference is 0.120996
+old difference is 0.120996
+new difference is 0.118066
+old difference is 0.118066
+new difference is 0.117324
+old difference is 0.117324
+new difference is 0.115735
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.351598
+old difference is 0.351598
+new difference is 0.3429
+old difference is 0.3429
+new difference is 0.324623
+old difference is 0.324623
+new difference is 0.295156
+old difference is 0.295156
+new difference is 0.211761
+old difference is 0.211761
+new difference is 0.104475
+old difference is 0.104475
+new difference is 0.0995703
+old difference is 0.0995703
+new difference is 0.0670182
+old difference is 0.0670182
+new difference is 0.0381891
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0794048
+old difference is 0.0794048
+new difference is 0.0756845
+old difference is 0.0756845
+new difference is 0.0668457
+old difference is 0.0668457
+new difference is 0.0558486
+old difference is 0.0558486
+new difference is 0.0267224
+old difference is 0.0267224
+new difference is 0.0155518
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.146878
+old difference is 0.146878
+new difference is 0.141412
+old difference is 0.141412
+new difference is 0.129504
+old difference is 0.129504
+new difference is 0.111913
+old difference is 0.111913
+new difference is 0.0641214
+old difference is 0.0641214
+new difference is 0.0499699
+old difference is 0.0499699
+new difference is 0.0374669
+old difference is 0.0374669
+new difference is 0.0229216
+old difference is 0.0229216
+new difference is 0.0173117
+object 3 has been classified as spatula
+old difference is 2.14748e+09
+new difference is 0.147294
+old difference is 0.147294
+new difference is 0.142365
+old difference is 0.142365
+new difference is 0.130129
+old difference is 0.130129
+new difference is 0.115172
+old difference is 0.115172
+new difference is 0.0711669
+old difference is 0.0711669
+new difference is 0.0491846
+old difference is 0.0491846
+new difference is 0.0434102
+object 4 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0722861
+old difference is 0.0722861
+new difference is 0.0597175
+old difference is 0.0597175
+new difference is 0.0392938
+object 5 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0801886
+old difference is 0.0801886
+new difference is 0.0707198
+old difference is 0.0707198
+new difference is 0.0580279
+old difference is 0.0580279
+new difference is 0.024947
+object 6 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0118348
+old difference is 0.0118348
+new difference is 0.0115177
+old difference is 0.0115177
+new difference is 0.00458516
+old difference is 0.00458516
+new difference is 0.00343486
+old difference is 0.00343486
+new difference is 0.00235701
+object 7 has been classified as sander
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.367491 , 1.22998 , 428252
+old difference is 2.14748e+09
+new difference is 0.882713
+old difference is 0.882713
+new difference is 0.869064
+old difference is 0.869064
+new difference is 0.839439
+old difference is 0.839439
+new difference is 0.792539
+old difference is 0.792539
+new difference is 0.652155
+old difference is 0.652155
+new difference is 0.423844
+old difference is 0.423844
+new difference is 0.412085
+old difference is 0.412085
+new difference is 0.362122
+old difference is 0.362122
+new difference is 0.245437
+old difference is 0.245437
+new difference is 0.118098
+old difference is 0.118098
+new difference is 0.118067
+old difference is 0.118067
+new difference is 0.11482
+old difference is 0.11482
+new difference is 0.114738
+old difference is 0.114738
+new difference is 0.113603
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.458929
+old difference is 0.458929
+new difference is 0.449108
+old difference is 0.449108
+new difference is 0.427875
+old difference is 0.427875
+new difference is 0.394636
+old difference is 0.394636
+new difference is 0.297728
+old difference is 0.297728
+new difference is 0.168187
+old difference is 0.168187
+new difference is 0.161653
+old difference is 0.161653
+new difference is 0.121168
+old difference is 0.121168
+new difference is 0.0738588
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0988692
+old difference is 0.0988692
+new difference is 0.0945207
+old difference is 0.0945207
+new difference is 0.0846979
+old difference is 0.0846979
+new difference is 0.071271
+old difference is 0.071271
+new difference is 0.0356142
+old difference is 0.0356142
+new difference is 0.018881
+old difference is 0.018881
+new difference is 0.0158838
+object 2 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0350209
+old difference is 0.0350209
+new difference is 0.0326329
+old difference is 0.0326329
+new difference is 0.0269184
+old difference is 0.0269184
+new difference is 0.0205785
+old difference is 0.0205785
+new difference is 0.00689552
+object 3 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.219725
+old difference is 0.219725
+new difference is 0.212756
+old difference is 0.212756
+new difference is 0.198772
+old difference is 0.198772
+new difference is 0.175235
+old difference is 0.175235
+new difference is 0.112248
+old difference is 0.112248
+new difference is 0.0427083
+old difference is 0.0427083
+new difference is 0.0402612
+old difference is 0.0402612
+new difference is 0.0172471
+old difference is 0.0172471
+new difference is 0.00882833
+object 4 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 5 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 6 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 7 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0118918
+old difference is 0.0118918
+new difference is 0.0108889
+old difference is 0.0108889
+new difference is 0.0108606
+old difference is 0.0108606
+new difference is 0.00819797
+old difference is 0.00819797
+new difference is 0.00349945
+old difference is 0.00349945
+new difference is 0.00345099
+object 8 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 9 has been classified as paddle
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.539268 , 0.538063 , 339962
+old difference is 2.14748e+09
+new difference is 0.939109
+old difference is 0.939109
+new difference is 0.924986
+old difference is 0.924986
+new difference is 0.894499
+old difference is 0.894499
+new difference is 0.845824
+old difference is 0.845824
+new difference is 0.700334
+old difference is 0.700334
+new difference is 0.457397
+old difference is 0.457397
+new difference is 0.445026
+old difference is 0.445026
+new difference is 0.395736
+old difference is 0.395736
+new difference is 0.269798
+old difference is 0.269798
+new difference is 0.122125
+old difference is 0.122125
+new difference is 0.118745
+old difference is 0.118745
+new difference is 0.118263
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.237808
+old difference is 0.237808
+new difference is 0.231694
+old difference is 0.231694
+new difference is 0.216028
+old difference is 0.216028
+new difference is 0.197241
+old difference is 0.197241
+new difference is 0.138499
+old difference is 0.138499
+new difference is 0.105917
+old difference is 0.105917
+new difference is 0.0908666
+old difference is 0.0908666
+new difference is 0.0794496
+old difference is 0.0794496
+new difference is 0.0745347
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0183133
+old difference is 0.0183133
+new difference is 0.0173029
+old difference is 0.0173029
+new difference is 0.0148575
+old difference is 0.0148575
+new difference is 0.00997332
+old difference is 0.00997332
+new difference is 0.000747019
+object 4 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 5 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 6 has been classified as shovel
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.524064 , 0.567147 , 360913
+old difference is 2.14748e+09
+new difference is 0.908297
+old difference is 0.908297
+new difference is 0.894413
+old difference is 0.894413
+new difference is 0.86443
+old difference is 0.86443
+new difference is 0.816616
+old difference is 0.816616
+new difference is 0.673806
+old difference is 0.673806
+new difference is 0.437287
+old difference is 0.437287
+new difference is 0.425238
+old difference is 0.425238
+new difference is 0.376338
+old difference is 0.376338
+new difference is 0.254797
+old difference is 0.254797
+new difference is 0.117141
+old difference is 0.117141
+new difference is 0.113849
+old difference is 0.113849
+new difference is 0.11303
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.254189
+old difference is 0.254189
+new difference is 0.247752
+old difference is 0.247752
+new difference is 0.231527
+old difference is 0.231527
+new difference is 0.211519
+old difference is 0.211519
+new difference is 0.149342
+old difference is 0.149342
+new difference is 0.139961
+old difference is 0.139961
+new difference is 0.113902
+old difference is 0.113902
+new difference is 0.0954193
+old difference is 0.0954193
+new difference is 0.0802976
+old difference is 0.0802976
+new difference is 0.0731747
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0115734
+old difference is 0.0115734
+new difference is 0.010813
+old difference is 0.010813
+new difference is 0.00956038
+old difference is 0.00956038
+new difference is 0.00954324
+old difference is 0.00954324
+new difference is 0.00275048
+old difference is 0.00275048
+new difference is 0.00259241
+object 3 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 4 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.282805
+old difference is 0.282805
+new difference is 0.269016
+old difference is 0.269016
+new difference is 0.189222
+old difference is 0.189222
+new difference is 0.141454
+object 5 has been classified as sander
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.391758 , 0.688652 , 295325
+old difference is 2.14748e+09
+new difference is 0.743895
+old difference is 0.743895
+new difference is 0.731111
+old difference is 0.731111
+new difference is 0.704622
+old difference is 0.704622
+new difference is 0.660217
+old difference is 0.660217
+new difference is 0.531565
+old difference is 0.531565
+new difference is 0.308701
+old difference is 0.308701
+new difference is 0.298366
+old difference is 0.298366
+new difference is 0.263483
+old difference is 0.263483
+new difference is 0.157776
+old difference is 0.157776
+new difference is 0.0624616
+old difference is 0.0624616
+new difference is 0.0622243
+old difference is 0.0622243
+new difference is 0.0601942
+old difference is 0.0601942
+new difference is 0.0595601
+old difference is 0.0595601
+new difference is 0.0583767
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.442555
+old difference is 0.442555
+new difference is 0.433337
+old difference is 0.433337
+new difference is 0.411972
+old difference is 0.411972
+new difference is 0.381578
+old difference is 0.381578
+new difference is 0.289282
+old difference is 0.289282
+new difference is 0.195067
+old difference is 0.195067
+new difference is 0.189072
+old difference is 0.189072
+new difference is 0.181813
+old difference is 0.181813
+new difference is 0.134917
+old difference is 0.134917
+new difference is 0.104038
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.03054
+old difference is 0.03054
+new difference is 0.0281995
+old difference is 0.0281995
+new difference is 0.0255451
+old difference is 0.0255451
+new difference is 0.0179625
+old difference is 0.0179625
+new difference is 0.00936053
+old difference is 0.00936053
+new difference is 0.00471039
+old difference is 0.00471039
+new difference is 0.00337399
+old difference is 0.00337399
+new difference is 0.000521404
+object 4 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0295232
+old difference is 0.0295232
+new difference is 0.0275215
+old difference is 0.0275215
+new difference is 0.0273545
+old difference is 0.0273545
+new difference is 0.0223525
+old difference is 0.0223525
+new difference is 0.0175357
+old difference is 0.0175357
+new difference is 0.00777764
+object 5 has been classified as donut
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.381181 , 0.702694 , 293686
+old difference is 2.14748e+09
+new difference is 0.680744
+old difference is 0.680744
+new difference is 0.668454
+old difference is 0.668454
+new difference is 0.643375
+old difference is 0.643375
+new difference is 0.600578
+old difference is 0.600578
+new difference is 0.47804
+old difference is 0.47804
+new difference is 0.263492
+old difference is 0.263492
+new difference is 0.253895
+old difference is 0.253895
+new difference is 0.223637
+old difference is 0.223637
+new difference is 0.125652
+old difference is 0.125652
+new difference is 0.0498849
+old difference is 0.0498849
+new difference is 0.0495063
+old difference is 0.0495063
+new difference is 0.0479934
+old difference is 0.0479934
+new difference is 0.0469795
+old difference is 0.0469795
+new difference is 0.0456511
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.460239
+old difference is 0.460239
+new difference is 0.450797
+old difference is 0.450797
+new difference is 0.429031
+old difference is 0.429031
+new difference is 0.397798
+old difference is 0.397798
+new difference is 0.303102
+old difference is 0.303102
+new difference is 0.201941
+old difference is 0.201941
+new difference is 0.195657
+old difference is 0.195657
+new difference is 0.191313
+old difference is 0.191313
+new difference is 0.141862
+old difference is 0.141862
+new difference is 0.106607
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.132916
+old difference is 0.132916
+new difference is 0.127445
+old difference is 0.127445
+new difference is 0.1171
+old difference is 0.1171
+new difference is 0.0987397
+old difference is 0.0987397
+new difference is 0.0533113
+old difference is 0.0533113
+new difference is 0.0176106
+old difference is 0.0176106
+new difference is 0.0172774
+old difference is 0.0172774
+new difference is 0.00830926
+old difference is 0.00830926
+new difference is 0.00166488
+object 2 has been classified as spatula
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0634946
+old difference is 0.0634946
+new difference is 0.05255
+old difference is 0.05255
+new difference is 0.0292568
+object 4 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.147023
+old difference is 0.147023
+new difference is 0.146222
+old difference is 0.146222
+new difference is 0.102078
+old difference is 0.102078
+new difference is 0.0560605
+old difference is 0.0560605
+new difference is 0.055983
+object 5 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0192879
+old difference is 0.0192879
+new difference is 0.0181873
+old difference is 0.0181873
+new difference is 0.0152419
+old difference is 0.0152419
+new difference is 0.0110569
+old difference is 0.0110569
+new difference is 0.000758698
+object 6 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.147294
+old difference is 0.147294
+new difference is 0.142365
+old difference is 0.142365
+new difference is 0.130129
+old difference is 0.130129
+new difference is 0.115172
+old difference is 0.115172
+new difference is 0.0711669
+old difference is 0.0711669
+new difference is 0.0491846
+old difference is 0.0491846
+new difference is 0.0434102
+object 7 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.282805
+old difference is 0.282805
+new difference is 0.269016
+old difference is 0.269016
+new difference is 0.189222
+old difference is 0.189222
+new difference is 0.141454
+object 8 has been classified as sander
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.309468 , 1.04011 , 1.94291e+06
+old difference is 2.14748e+09
+new difference is 0.731586
+old difference is 0.731586
+new difference is 0.718916
+old difference is 0.718916
+new difference is 0.692626
+old difference is 0.692626
+new difference is 0.648655
+old difference is 0.648655
+new difference is 0.52122
+old difference is 0.52122
+new difference is 0.302029
+old difference is 0.302029
+new difference is 0.291839
+old difference is 0.291839
+new difference is 0.256686
+old difference is 0.256686
+new difference is 0.153254
+old difference is 0.153254
+new difference is 0.0628849
+old difference is 0.0628849
+new difference is 0.062607
+old difference is 0.062607
+new difference is 0.0606369
+old difference is 0.0606369
+new difference is 0.0598932
+old difference is 0.0598932
+new difference is 0.0586369
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.579142
+old difference is 0.579142
+new difference is 0.568144
+old difference is 0.568144
+new difference is 0.544154
+old difference is 0.544154
+new difference is 0.506801
+old difference is 0.506801
+new difference is 0.396256
+old difference is 0.396256
+new difference is 0.238772
+old difference is 0.238772
+new difference is 0.230597
+old difference is 0.230597
+new difference is 0.185346
+old difference is 0.185346
+new difference is 0.117385
+old difference is 0.117385
+new difference is 0.101224
+old difference is 0.101224
+new difference is 0.100317
+old difference is 0.100317
+new difference is 0.0989477
+old difference is 0.0989477
+new difference is 0.0965043
+old difference is 0.0965043
+new difference is 0.0940013
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.138046
+old difference is 0.138046
+new difference is 0.133325
+old difference is 0.133325
+new difference is 0.121498
+old difference is 0.121498
+new difference is 0.107309
+old difference is 0.107309
+new difference is 0.0655963
+old difference is 0.0655963
+new difference is 0.0454668
+old difference is 0.0454668
+new difference is 0.0418032
+object 4 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0259967
+old difference is 0.0259967
+new difference is 0.0239982
+old difference is 0.0239982
+new difference is 0.0221926
+old difference is 0.0221926
+new difference is 0.0157825
+old difference is 0.0157825
+new difference is 0.0112159
+old difference is 0.0112159
+new difference is 0.00744466
+old difference is 0.00744466
+new difference is 0.00725359
+old difference is 0.00725359
+new difference is 0.00699408
+old difference is 0.00699408
+new difference is 0.00189635
+old difference is 0.00189635
+new difference is 0.0015126
+object 5 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.161824
+old difference is 0.161824
+new difference is 0.156366
+old difference is 0.156366
+new difference is 0.143584
+old difference is 0.143584
+new difference is 0.126452
+old difference is 0.126452
+new difference is 0.0773876
+old difference is 0.0773876
+new difference is 0.0756339
+old difference is 0.0756339
+new difference is 0.0507503
+old difference is 0.0507503
+new difference is 0.0384604
+old difference is 0.0384604
+new difference is 0.0335067
+object 6 has been classified as spatula
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.531716 , 0.535472 , 335185
+old difference is 2.14748e+09
+new difference is 0.874739
+old difference is 0.874739
+new difference is 0.861156
+old difference is 0.861156
+new difference is 0.831658
+old difference is 0.831658
+new difference is 0.785006
+old difference is 0.785006
+new difference is 0.645352
+old difference is 0.645352
+new difference is 0.419033
+old difference is 0.419033
+new difference is 0.407361
+old difference is 0.407361
+new difference is 0.357359
+old difference is 0.357359
+new difference is 0.24196
+old difference is 0.24196
+new difference is 0.117475
+old difference is 0.117475
+new difference is 0.117421
+old difference is 0.117421
+new difference is 0.114215
+old difference is 0.114215
+new difference is 0.114071
+old difference is 0.114071
+new difference is 0.112897
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.246947
+old difference is 0.246947
+new difference is 0.240675
+old difference is 0.240675
+new difference is 0.224696
+old difference is 0.224696
+new difference is 0.205334
+old difference is 0.205334
+new difference is 0.144856
+old difference is 0.144856
+new difference is 0.14132
+old difference is 0.14132
+new difference is 0.110878
+old difference is 0.110878
+new difference is 0.0942539
+old difference is 0.0942539
+new difference is 0.0810568
+old difference is 0.0810568
+new difference is 0.0750359
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 2 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0219341
+old difference is 0.0219341
+new difference is 0.0110626
+old difference is 0.0110626
+new difference is 0.000161514
+object 3 has been classified as paddle
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.373701 , 0.69654 , 288872
+old difference is 2.14748e+09
+new difference is 0.876669
+old difference is 0.876669
+new difference is 0.863072
+old difference is 0.863072
+new difference is 0.833539
+old difference is 0.833539
+new difference is 0.78684
+old difference is 0.78684
+new difference is 0.64702
+old difference is 0.64702
+new difference is 0.420409
+old difference is 0.420409
+new difference is 0.408718
+old difference is 0.408718
+new difference is 0.358631
+old difference is 0.358631
+new difference is 0.242999
+old difference is 0.242999
+new difference is 0.11795
+old difference is 0.11795
+new difference is 0.117901
+old difference is 0.117901
+new difference is 0.114682
+old difference is 0.114682
+new difference is 0.114549
+old difference is 0.114549
+new difference is 0.11338
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.473958
+old difference is 0.473958
+new difference is 0.464361
+old difference is 0.464361
+new difference is 0.442277
+old difference is 0.442277
+new difference is 0.410481
+old difference is 0.410481
+new difference is 0.314059
+old difference is 0.314059
+new difference is 0.208597
+old difference is 0.208597
+new difference is 0.202107
+old difference is 0.202107
+new difference is 0.199361
+old difference is 0.199361
+new difference is 0.148159
+old difference is 0.148159
+new difference is 0.110013
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0133457
+old difference is 0.0133457
+new difference is 0.0129706
+old difference is 0.0129706
+new difference is 0.00438915
+old difference is 0.00438915
+new difference is 0.00269462
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 3 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 4 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0332102
+old difference is 0.0332102
+new difference is 0.0317213
+old difference is 0.0317213
+new difference is 0.0277426
+old difference is 0.0277426
+new difference is 0.0267201
+old difference is 0.0267201
+new difference is 0.0241904
+old difference is 0.0241904
+new difference is 0.0187871
+object 5 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 6 has been classified as paddle
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.335791 , 0.903484 , 2.39455e+06
+old difference is 2.14748e+09
+new difference is 0.766004
+old difference is 0.766004
+new difference is 0.753455
+old difference is 0.753455
+new difference is 0.725618
+old difference is 0.725618
+new difference is 0.682943
+old difference is 0.682943
+new difference is 0.554097
+old difference is 0.554097
+new difference is 0.362679
+old difference is 0.362679
+new difference is 0.3523
+old difference is 0.3523
+new difference is 0.298545
+old difference is 0.298545
+new difference is 0.20417
+old difference is 0.20417
+new difference is 0.12478
+old difference is 0.12478
+new difference is 0.124352
+old difference is 0.124352
+new difference is 0.121628
+old difference is 0.121628
+new difference is 0.120473
+old difference is 0.120473
+new difference is 0.118602
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.533382
+old difference is 0.533382
+new difference is 0.522957
+old difference is 0.522957
+new difference is 0.499757
+old difference is 0.499757
+new difference is 0.464674
+old difference is 0.464674
+new difference is 0.359924
+old difference is 0.359924
+new difference is 0.2236
+old difference is 0.2236
+new difference is 0.216116
+old difference is 0.216116
+new difference is 0.167407
+old difference is 0.167407
+new difference is 0.111611
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.00490541
+old difference is 0.00490541
+new difference is 0.000325435
+object 2 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0231844
+old difference is 0.0231844
+new difference is 0.0151561
+object 3 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.141479
+old difference is 0.141479
+new difference is 0.136299
+old difference is 0.136299
+new difference is 0.124427
+old difference is 0.124427
+new difference is 0.108142
+old difference is 0.108142
+new difference is 0.0626962
+old difference is 0.0626962
+new difference is 0.0385512
+old difference is 0.0385512
+new difference is 0.0281775
+old difference is 0.0281775
+new difference is 0.0261488
+object 4 has been classified as spatula
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.348154 , 0.743121 , 288716
+old difference is 2.14748e+09
+new difference is 0.851895
+old difference is 0.851895
+new difference is 0.838475
+old difference is 0.838475
+new difference is 0.809404
+old difference is 0.809404
+new difference is 0.763298
+old difference is 0.763298
+new difference is 0.625598
+old difference is 0.625598
+new difference is 0.402511
+old difference is 0.402511
+new difference is 0.391076
+old difference is 0.391076
+new difference is 0.342213
+old difference is 0.342213
+new difference is 0.229492
+old difference is 0.229492
+new difference is 0.111555
+old difference is 0.111555
+new difference is 0.111453
+old difference is 0.111453
+new difference is 0.108399
+old difference is 0.108399
+new difference is 0.108124
+old difference is 0.108124
+new difference is 0.106891
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.518423
+old difference is 0.518423
+new difference is 0.508285
+old difference is 0.508285
+new difference is 0.485257
+old difference is 0.485257
+new difference is 0.451414
+old difference is 0.451414
+new difference is 0.349216
+old difference is 0.349216
+new difference is 0.226494
+old difference is 0.226494
+new difference is 0.219312
+old difference is 0.219312
+new difference is 0.166551
+old difference is 0.166551
+new difference is 0.117677
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.19996
+old difference is 0.19996
+new difference is 0.193219
+old difference is 0.193219
+new difference is 0.18152
+old difference is 0.18152
+new difference is 0.157948
+old difference is 0.157948
+new difference is 0.1003
+old difference is 0.1003
+new difference is 0.0124105
+old difference is 0.0124105
+new difference is 0.0106241
+old difference is 0.0106241
+new difference is 0.00677294
+old difference is 0.00677294
+new difference is 0.004756
+old difference is 0.004756
+new difference is 0.0013241
+object 2 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0816859
+old difference is 0.0816859
+new difference is 0.0781956
+old difference is 0.0781956
+new difference is 0.0692314
+old difference is 0.0692314
+new difference is 0.0593562
+old difference is 0.0593562
+new difference is 0.0318751
+old difference is 0.0318751
+new difference is 0.0227078
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0500572
+old difference is 0.0500572
+new difference is 0.04521
+old difference is 0.04521
+new difference is 0.0260427
+old difference is 0.0260427
+new difference is 0.00624386
+object 4 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.113206
+old difference is 0.113206
+new difference is 0.108357
+old difference is 0.108357
+new difference is 0.101405
+old difference is 0.101405
+new difference is 0.0842943
+old difference is 0.0842943
+new difference is 0.0490472
+old difference is 0.0490472
+new difference is 0.00174011
+object 5 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.00460383
+old difference is 0.00460383
+new difference is 0.00426621
+old difference is 0.00426621
+new difference is 0.000103683
+object 6 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0441334
+old difference is 0.0441334
+new difference is 0.041883
+old difference is 0.041883
+new difference is 0.0400782
+old difference is 0.0400782
+new difference is 0.0355688
+old difference is 0.0355688
+new difference is 0.0301511
+old difference is 0.0301511
+new difference is 0.0166467
+object 7 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0373106
+old difference is 0.0373106
+new difference is 0.0346472
+old difference is 0.0346472
+new difference is 0.0288145
+old difference is 0.0288145
+new difference is 0.0212602
+old difference is 0.0212602
+new difference is 0.00519606
+old difference is 0.00519606
+new difference is 0.00347702
+object 8 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0999152
+old difference is 0.0999152
+new difference is 0.0958953
+old difference is 0.0958953
+new difference is 0.0859054
+old difference is 0.0859054
+new difference is 0.0740756
+old difference is 0.0740756
+new difference is 0.0407879
+old difference is 0.0407879
+new difference is 0.026918
+object 9 has been classified as paddle
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.332094 , 0.782158 , 291683
+old difference is 2.14748e+09
+new difference is 0.800487
+old difference is 0.800487
+new difference is 0.787592
+old difference is 0.787592
+new difference is 0.759225
+old difference is 0.759225
+new difference is 0.715207
+old difference is 0.715207
+new difference is 0.582784
+old difference is 0.582784
+new difference is 0.379338
+old difference is 0.379338
+new difference is 0.368532
+old difference is 0.368532
+new difference is 0.316301
+old difference is 0.316301
+new difference is 0.214794
+old difference is 0.214794
+new difference is 0.12023
+old difference is 0.12023
+new difference is 0.119929
+old difference is 0.119929
+new difference is 0.117056
+old difference is 0.117056
+new difference is 0.116243
+old difference is 0.116243
+new difference is 0.114613
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.547133
+old difference is 0.547133
+new difference is 0.536653
+old difference is 0.536653
+new difference is 0.51305
+old difference is 0.51305
+new difference is 0.477903
+old difference is 0.477903
+new difference is 0.372092
+old difference is 0.372092
+new difference is 0.238147
+old difference is 0.238147
+new difference is 0.230533
+old difference is 0.230533
+new difference is 0.178763
+old difference is 0.178763
+new difference is 0.123023
+old difference is 0.123023
+new difference is 0.122448
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0799779
+old difference is 0.0799779
+new difference is 0.0762988
+old difference is 0.0762988
+new difference is 0.067416
+old difference is 0.067416
+new difference is 0.0566303
+old difference is 0.0566303
+new difference is 0.0277658
+old difference is 0.0277658
+new difference is 0.0169526
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.011915
+old difference is 0.011915
+new difference is 0.00868411
+old difference is 0.00868411
+new difference is 0.00858083
+old difference is 0.00858083
+new difference is 0.00828181
+object 3 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.264289
+old difference is 0.264289
+new difference is 0.260495
+old difference is 0.260495
+new difference is 0.245497
+old difference is 0.245497
+new difference is 0.231019
+old difference is 0.231019
+new difference is 0.133073
+old difference is 0.133073
+new difference is 0.118665
+old difference is 0.118665
+new difference is 0.0954432
+old difference is 0.0954432
+new difference is 0.0711076
+old difference is 0.0711076
+new difference is 0.00772917
+object 4 has been classified as spatula
+old difference is 2.14748e+09
+new difference is 0.0407875
+old difference is 0.0407875
+new difference is 0.0377734
+old difference is 0.0377734
+new difference is 0.0327171
+old difference is 0.0327171
+new difference is 0.0231725
+old difference is 0.0231725
+new difference is 0.0054988
+old difference is 0.0054988
+new difference is 0.000765097
+object 5 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0828451
+old difference is 0.0828451
+new difference is 0.0796372
+old difference is 0.0796372
+new difference is 0.077383
+old difference is 0.077383
+new difference is 0.0656042
+old difference is 0.0656042
+new difference is 0.0506862
+old difference is 0.0506862
+new difference is 0.0307642
+old difference is 0.0307642
+new difference is 0.00764409
+old difference is 0.00764409
+new difference is 0.0056627
+object 6 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0784432
+old difference is 0.0784432
+new difference is 0.0742425
+old difference is 0.0742425
+new difference is 0.0670835
+old difference is 0.0670835
+new difference is 0.0530661
+old difference is 0.0530661
+new difference is 0.0226827
+old difference is 0.0226827
+new difference is 0.0143029
+old difference is 0.0143029
+new difference is 0.00742577
+old difference is 0.00742577
+new difference is 0.00615562
+old difference is 0.00615562
+new difference is 0.000155298
+object 7 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.00911605
+old difference is 0.00911605
+new difference is 0.00788001
+old difference is 0.00788001
+new difference is 0.00671997
+old difference is 0.00671997
+new difference is 0.00352164
+old difference is 0.00352164
+new difference is 0.00329167
+object 8 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 9 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 10 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0999152
+old difference is 0.0999152
+new difference is 0.0958953
+old difference is 0.0958953
+new difference is 0.0859054
+old difference is 0.0859054
+new difference is 0.0740756
+old difference is 0.0740756
+new difference is 0.0407879
+old difference is 0.0407879
+new difference is 0.026918
+object 11 has been classified as paddle
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.327058 , 0.803039 , 293622
+old difference is 2.14748e+09
+new difference is 0.874863
+old difference is 0.874863
+new difference is 0.861211
+old difference is 0.861211
+new difference is 0.831852
+old difference is 0.831852
+new difference is 0.78481
+old difference is 0.78481
+new difference is 0.64481
+old difference is 0.64481
+new difference is 0.412689
+old difference is 0.412689
+new difference is 0.40098
+old difference is 0.40098
+new difference is 0.353866
+old difference is 0.353866
+new difference is 0.236084
+old difference is 0.236084
+new difference is 0.107713
+old difference is 0.107713
+new difference is 0.1077
+old difference is 0.1077
+new difference is 0.104578
+old difference is 0.104578
+new difference is 0.104545
+old difference is 0.104545
+new difference is 0.103496
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.555867
+old difference is 0.555867
+new difference is 0.545278
+old difference is 0.545278
+new difference is 0.521514
+old difference is 0.521514
+new difference is 0.485942
+old difference is 0.485942
+new difference is 0.379013
+old difference is 0.379013
+new difference is 0.24122
+old difference is 0.24122
+new difference is 0.233472
+old difference is 0.233472
+new difference is 0.182232
+old difference is 0.182232
+new difference is 0.12423
+old difference is 0.12423
+new difference is 0.12196
+old difference is 0.12196
+new difference is 0.119049
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.282805
+old difference is 0.282805
+new difference is 0.269016
+old difference is 0.269016
+new difference is 0.189222
+old difference is 0.189222
+new difference is 0.141454
+object 2 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.17578
+old difference is 0.17578
+new difference is 0.172954
+old difference is 0.172954
+new difference is 0.162701
+old difference is 0.162701
+new difference is 0.156768
+old difference is 0.156768
+new difference is 0.105538
+old difference is 0.105538
+new difference is 0.0734852
+old difference is 0.0734852
+new difference is 0.0676097
+old difference is 0.0676097
+new difference is 0.0614331
+old difference is 0.0614331
+new difference is 0.0324485
+object 3 has been classified as spatula
+old difference is 2.14748e+09
+new difference is 0.0882797
+old difference is 0.0882797
+new difference is 0.0842755
+old difference is 0.0842755
+new difference is 0.0794846
+old difference is 0.0794846
+new difference is 0.0652424
+old difference is 0.0652424
+new difference is 0.0400663
+old difference is 0.0400663
+new difference is 0.0103743
+old difference is 0.0103743
+new difference is 0.0028966
+old difference is 0.0028966
+new difference is 6.77051e-05
+object 4 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0775931
+old difference is 0.0775931
+new difference is 0.0742306
+old difference is 0.0742306
+new difference is 0.0740213
+old difference is 0.0740213
+new difference is 0.065517
+old difference is 0.065517
+new difference is 0.0561118
+old difference is 0.0561118
+new difference is 0.0300363
+old difference is 0.0300363
+new difference is 0.0220038
+object 5 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0235046
+old difference is 0.0235046
+new difference is 0.0151204
+object 6 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.00387527
+old difference is 0.00387527
+new difference is 0.00045767
+object 7 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0294099
+old difference is 0.0294099
+new difference is 0.0278059
+old difference is 0.0278059
+new difference is 0.0251845
+old difference is 0.0251845
+new difference is 0.02292
+old difference is 0.02292
+new difference is 0.0198037
+old difference is 0.0198037
+new difference is 0.0136577
+object 8 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0881116
+old difference is 0.0881116
+new difference is 0.0845039
+old difference is 0.0845039
+new difference is 0.0843799
+old difference is 0.0843799
+new difference is 0.0751802
+old difference is 0.0751802
+new difference is 0.064935
+old difference is 0.064935
+new difference is 0.0359639
+old difference is 0.0359639
+new difference is 0.0257454
+object 9 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0634945
+old difference is 0.0634945
+new difference is 0.0525499
+old difference is 0.0525499
+new difference is 0.0292568
+object 10 has been classified as sander
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.333439 , 0.777746 , 291410
+old difference is 2.14748e+09
+new difference is 0.824855
+old difference is 0.824855
+new difference is 0.811676
+old difference is 0.811676
+new difference is 0.783028
+old difference is 0.783028
+new difference is 0.737835
+old difference is 0.737835
+new difference is 0.602714
+old difference is 0.602714
+new difference is 0.387316
+old difference is 0.387316
+new difference is 0.376189
+old difference is 0.376189
+new difference is 0.326809
+old difference is 0.326809
+new difference is 0.218871
+old difference is 0.218871
+new difference is 0.111361
+old difference is 0.111361
+new difference is 0.111173
+old difference is 0.111173
+new difference is 0.108248
+old difference is 0.108248
+new difference is 0.107743
+old difference is 0.107743
+new difference is 0.106357
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.544752
+old difference is 0.544752
+new difference is 0.534301
+old difference is 0.534301
+new difference is 0.510745
+old difference is 0.510745
+new difference is 0.475708
+old difference is 0.475708
+new difference is 0.370198
+old difference is 0.370198
+new difference is 0.237237
+old difference is 0.237237
+new difference is 0.229659
+old difference is 0.229659
+new difference is 0.177777
+old difference is 0.177777
+new difference is 0.122627
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.190117
+old difference is 0.190117
+new difference is 0.183776
+old difference is 0.183776
+new difference is 0.174393
+old difference is 0.174393
+new difference is 0.151557
+old difference is 0.151557
+new difference is 0.100656
+old difference is 0.100656
+new difference is 0.00344334
+old difference is 0.00344334
+new difference is 0.00248341
+object 2 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.183636
+old difference is 0.183636
+new difference is 0.177192
+old difference is 0.177192
+new difference is 0.166219
+old difference is 0.166219
+new difference is 0.143664
+old difference is 0.143664
+new difference is 0.0894928
+old difference is 0.0894928
+new difference is 0.00814866
+old difference is 0.00814866
+new difference is 0.00678103
+old difference is 0.00678103
+new difference is 0.00448771
+old difference is 0.00448771
+new difference is 0.00122167
+object 4 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.121294
+old difference is 0.121294
+new difference is 0.116945
+old difference is 0.116945
+new difference is 0.112602
+old difference is 0.112602
+new difference is 0.0965541
+old difference is 0.0965541
+new difference is 0.0693122
+old difference is 0.0693122
+new difference is 0.0143259
+old difference is 0.0143259
+new difference is 0.0127884
+old difference is 0.0127884
+new difference is 0.00346178
+object 5 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.117581
+old difference is 0.117581
+new difference is 0.113636
+old difference is 0.113636
+new difference is 0.110502
+old difference is 0.110502
+new difference is 0.0957418
+old difference is 0.0957418
+new difference is 0.0735839
+old difference is 0.0735839
+new difference is 0.0246353
+old difference is 0.0246353
+new difference is 0.0152026
+old difference is 0.0152026
+new difference is 0.0066203
+object 6 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0200817
+old difference is 0.0200817
+new difference is 0.017987
+old difference is 0.017987
+new difference is 0.0146486
+old difference is 0.0146486
+new difference is 0.00852737
+old difference is 0.00852737
+new difference is 0.000838125
+old difference is 0.000838125
+new difference is 0.00031623
+object 7 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0634946
+old difference is 0.0634946
+new difference is 0.05255
+old difference is 0.05255
+new difference is 0.0292568
+object 8 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0602405
+old difference is 0.0602405
+new difference is 0.0566028
+old difference is 0.0566028
+new difference is 0.0495962
+old difference is 0.0495962
+new difference is 0.0381047
+old difference is 0.0381047
+new difference is 0.0124528
+old difference is 0.0124528
+new difference is 0.00213037
+object 9 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0775629
+old difference is 0.0775629
+new difference is 0.0742176
+old difference is 0.0742176
+new difference is 0.0738854
+old difference is 0.0738854
+new difference is 0.065511
+old difference is 0.065511
+new difference is 0.0561816
+old difference is 0.0561816
+new difference is 0.030254
+old difference is 0.030254
+new difference is 0.022372
+object 10 has been classified as paddle
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.325124 , 0.807894 , 294613
+old difference is 2.14748e+09
+new difference is 0.823401
+old difference is 0.823401
+new difference is 0.810237
+old difference is 0.810237
+new difference is 0.781609
+old difference is 0.781609
+new difference is 0.736474
+old difference is 0.736474
+new difference is 0.601501
+old difference is 0.601501
+new difference is 0.386649
+old difference is 0.386649
+new difference is 0.37554
+old difference is 0.37554
+new difference is 0.326068
+old difference is 0.326068
+new difference is 0.218443
+old difference is 0.218443
+new difference is 0.111585
+old difference is 0.111585
+new difference is 0.111392
+old difference is 0.111392
+new difference is 0.108472
+old difference is 0.108472
+new difference is 0.107952
+old difference is 0.107952
+new difference is 0.106555
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.559425
+old difference is 0.559425
+new difference is 0.548795
+old difference is 0.548795
+new difference is 0.524963
+old difference is 0.524963
+new difference is 0.489233
+old difference is 0.489233
+new difference is 0.381869
+old difference is 0.381869
+new difference is 0.242719
+old difference is 0.242719
+new difference is 0.234919
+old difference is 0.234919
+new difference is 0.183802
+old difference is 0.183802
+new difference is 0.124972
+old difference is 0.124972
+new difference is 0.123823
+old difference is 0.123823
+new difference is 0.120947
+old difference is 0.120947
+new difference is 0.118062
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.357197
+old difference is 0.357197
+new difference is 0.348268
+old difference is 0.348268
+new difference is 0.333699
+old difference is 0.333699
+new difference is 0.301396
+old difference is 0.301396
+new difference is 0.221855
+old difference is 0.221855
+new difference is 0.051253
+old difference is 0.051253
+new difference is 0.0468566
+old difference is 0.0468566
+new difference is 0.0425399
+old difference is 0.0425399
+new difference is 0.00871659
+old difference is 0.00871659
+new difference is 0.00514102
+object 2 has been classified as wrench
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.00979654
+old difference is 0.00979654
+new difference is 0.00338564
+old difference is 0.00338564
+new difference is 0.0026373
+object 4 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.215107
+old difference is 0.215107
+new difference is 0.210845
+old difference is 0.210845
+new difference is 0.209662
+old difference is 0.209662
+new difference is 0.192507
+old difference is 0.192507
+new difference is 0.170817
+old difference is 0.170817
+new difference is 0.0776711
+old difference is 0.0776711
+new difference is 0.0728659
+old difference is 0.0728659
+new difference is 0.0522138
+old difference is 0.0522138
+new difference is 0.0330413
+old difference is 0.0330413
+new difference is 0.015607
+old difference is 0.015607
+new difference is 0.0133561
+object 5 has been classified as spatula
+old difference is 2.14748e+09
+new difference is 0.0330239
+old difference is 0.0330239
+new difference is 0.0313587
+old difference is 0.0313587
+new difference is 0.0283233
+old difference is 0.0283233
+new difference is 0.0261876
+old difference is 0.0261876
+new difference is 0.0229248
+old difference is 0.0229248
+new difference is 0.0158514
+object 6 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0776239
+old difference is 0.0776239
+new difference is 0.0743245
+old difference is 0.0743245
+new difference is 0.0715266
+old difference is 0.0715266
+new difference is 0.0595859
+old difference is 0.0595859
+new difference is 0.0431026
+old difference is 0.0431026
+new difference is 0.0255004
+old difference is 0.0255004
+new difference is 0.00431137
+old difference is 0.00431137
+new difference is 0.00323424
+object 7 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0393554
+old difference is 0.0393554
+new difference is 0.037144
+old difference is 0.037144
+new difference is 0.0356848
+old difference is 0.0356848
+new difference is 0.0281265
+old difference is 0.0281265
+new difference is 0.0223912
+old difference is 0.0223912
+new difference is 0.00568663
+object 8 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.147294
+old difference is 0.147294
+new difference is 0.142365
+old difference is 0.142365
+new difference is 0.130129
+old difference is 0.130129
+new difference is 0.115172
+old difference is 0.115172
+new difference is 0.0711669
+old difference is 0.0711669
+new difference is 0.0491846
+old difference is 0.0491846
+new difference is 0.0434102
+object 9 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0210485
+old difference is 0.0210485
+new difference is 0.0189001
+old difference is 0.0189001
+new difference is 0.0151661
+old difference is 0.0151661
+new difference is 0.00898589
+old difference is 0.00898589
+new difference is 0.000259773
+old difference is 0.000259773
+new difference is 1.51826e-05
+old difference is 1.51826e-05
+new difference is 6.53028e-06
+object 10 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0302758
+old difference is 0.0302758
+new difference is 0.0210168
+object 11 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0881116
+old difference is 0.0881116
+new difference is 0.0845039
+old difference is 0.0845039
+new difference is 0.0843799
+old difference is 0.0843799
+new difference is 0.0751802
+old difference is 0.0751802
+new difference is 0.064935
+old difference is 0.064935
+new difference is 0.0359639
+old difference is 0.0359639
+new difference is 0.0257454
+object 12 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0332101
+old difference is 0.0332101
+new difference is 0.0317213
+old difference is 0.0317213
+new difference is 0.0277426
+old difference is 0.0277426
+new difference is 0.0267201
+old difference is 0.0267201
+new difference is 0.0241904
+old difference is 0.0241904
+new difference is 0.0187871
+object 13 has been classified as donut
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.32377 , 0.808517 , 295192
+old difference is 2.14748e+09
+new difference is 0.85745
+old difference is 0.85745
+new difference is 0.844073
+old difference is 0.844073
+new difference is 0.814746
+old difference is 0.814746
+new difference is 0.768957
+old difference is 0.768957
+new difference is 0.631203
+old difference is 0.631203
+new difference is 0.413942
+old difference is 0.413942
+new difference is 0.402496
+old difference is 0.402496
+new difference is 0.350108
+old difference is 0.350108
+new difference is 0.239472
+old difference is 0.239472
+new difference is 0.124439
+old difference is 0.124439
+new difference is 0.124301
+old difference is 0.124301
+new difference is 0.121117
+old difference is 0.121117
+new difference is 0.120746
+old difference is 0.120746
+new difference is 0.119386
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.56208
+old difference is 0.56208
+new difference is 0.551422
+old difference is 0.551422
+new difference is 0.527535
+old difference is 0.527535
+new difference is 0.4917
+old difference is 0.4917
+new difference is 0.384027
+old difference is 0.384027
+new difference is 0.244032
+old difference is 0.244032
+new difference is 0.236195
+old difference is 0.236195
+new difference is 0.185094
+old difference is 0.185094
+new difference is 0.125719
+old difference is 0.125719
+new difference is 0.124768
+old difference is 0.124768
+new difference is 0.123352
+old difference is 0.123352
+new difference is 0.120502
+old difference is 0.120502
+new difference is 0.117634
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.287399
+old difference is 0.287399
+new difference is 0.280059
+old difference is 0.280059
+new difference is 0.270731
+old difference is 0.270731
+new difference is 0.243257
+old difference is 0.243257
+new difference is 0.184459
+old difference is 0.184459
+new difference is 0.0309115
+old difference is 0.0309115
+new difference is 0.0290268
+old difference is 0.0290268
+new difference is 0.0106121
+old difference is 0.0106121
+new difference is 0.00540575
+object 2 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0722861
+old difference is 0.0722861
+new difference is 0.0597175
+old difference is 0.0597175
+new difference is 0.0392938
+object 3 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.202937
+old difference is 0.202937
+new difference is 0.196508
+old difference is 0.196508
+new difference is 0.182415
+old difference is 0.182415
+new difference is 0.161426
+old difference is 0.161426
+new difference is 0.102589
+old difference is 0.102589
+new difference is 0.064638
+old difference is 0.064638
+new difference is 0.0626757
+old difference is 0.0626757
+new difference is 0.0438276
+old difference is 0.0438276
+new difference is 0.0274797
+old difference is 0.0274797
+new difference is 0.0219855
+object 4 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.00820791
+old difference is 0.00820791
+new difference is 0.00372398
+object 5 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.233667
+old difference is 0.233667
+new difference is 0.228717
+old difference is 0.228717
+new difference is 0.226036
+old difference is 0.226036
+new difference is 0.206419
+old difference is 0.206419
+new difference is 0.176929
+old difference is 0.176929
+new difference is 0.0658682
+old difference is 0.0658682
+new difference is 0.0500701
+old difference is 0.0500701
+new difference is 0.0223752
+old difference is 0.0223752
+new difference is 0.0161363
+old difference is 0.0161363
+new difference is 0.00784788
+object 6 has been classified as spatula
+old difference is 2.14748e+09
+new difference is 0.0171201
+old difference is 0.0171201
+new difference is 0.0156201
+old difference is 0.0156201
+new difference is 0.0118051
+old difference is 0.0118051
+new difference is 0.00865674
+old difference is 0.00865674
+new difference is 0.00498608
+object 7 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0904912
+old difference is 0.0904912
+new difference is 0.0868077
+old difference is 0.0868077
+new difference is 0.0833519
+old difference is 0.0833519
+new difference is 0.0699521
+old difference is 0.0699521
+new difference is 0.0493891
+old difference is 0.0493891
+new difference is 0.0193654
+old difference is 0.0193654
+new difference is 0.00541856
+old difference is 0.00541856
+new difference is 0.00168913
+object 8 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.239068
+old difference is 0.239068
+new difference is 0.232199
+old difference is 0.232199
+new difference is 0.216721
+old difference is 0.216721
+new difference is 0.194363
+old difference is 0.194363
+new difference is 0.129886
+old difference is 0.129886
+new difference is 0.0863108
+old difference is 0.0863108
+new difference is 0.0836661
+old difference is 0.0836661
+new difference is 0.0640088
+old difference is 0.0640088
+new difference is 0.0429939
+old difference is 0.0429939
+new difference is 0.0340257
+object 9 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.104916
+old difference is 0.104916
+new difference is 0.100921
+old difference is 0.100921
+new difference is 0.0906883
+old difference is 0.0906883
+new difference is 0.079086
+old difference is 0.079086
+new difference is 0.0456194
+old difference is 0.0456194
+new difference is 0.0319444
+object 10 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0296986
+old difference is 0.0296986
+new difference is 0.0271326
+old difference is 0.0271326
+new difference is 0.0227123
+old difference is 0.0227123
+new difference is 0.0149325
+old difference is 0.0149325
+new difference is 0.00181599
+old difference is 0.00181599
+new difference is 0.00104573
+old difference is 0.00104573
+new difference is 0.00101109
+old difference is 0.00101109
+new difference is 0.000884209
+object 11 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0151437
+old difference is 0.0151437
+new difference is 0.00914226
+object 12 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0558224
+old difference is 0.0558224
+new difference is 0.0536393
+old difference is 0.0536393
+new difference is 0.0494376
+old difference is 0.0494376
+new difference is 0.0467684
+old difference is 0.0467684
+new difference is 0.0419271
+old difference is 0.0419271
+new difference is 0.0281047
+object 13 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.197118
+old difference is 0.197118
+new difference is 0.191037
+old difference is 0.191037
+new difference is 0.176907
+old difference is 0.176907
+new difference is 0.157542
+old difference is 0.157542
+new difference is 0.101429
+old difference is 0.101429
+new difference is 0.0833477
+old difference is 0.0833477
+new difference is 0.0692479
+old difference is 0.0692479
+new difference is 0.0509705
+old difference is 0.0509705
+new difference is 0.0390215
+old difference is 0.0390215
+new difference is 0.0354349
+object 14 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0801886
+old difference is 0.0801886
+new difference is 0.0707198
+old difference is 0.0707198
+new difference is 0.0580279
+old difference is 0.0580279
+new difference is 0.024947
+object 15 has been classified as sander
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.327692 , 0.789695 , 292990
+old difference is 2.14748e+09
+new difference is 0.853534
+old difference is 0.853534
+new difference is 0.84019
+old difference is 0.84019
+new difference is 0.810926
+old difference is 0.810926
+new difference is 0.765266
+old difference is 0.765266
+new difference is 0.62788
+old difference is 0.62788
+new difference is 0.411675
+old difference is 0.411675
+new difference is 0.400273
+old difference is 0.400273
+new difference is 0.347837
+old difference is 0.347837
+new difference is 0.237869
+old difference is 0.237869
+new difference is 0.124304
+old difference is 0.124304
+new difference is 0.124155
+old difference is 0.124155
+new difference is 0.12099
+old difference is 0.12099
+new difference is 0.120587
+old difference is 0.120587
+new difference is 0.119205
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.555358
+old difference is 0.555358
+new difference is 0.544784
+old difference is 0.544784
+new difference is 0.521019
+old difference is 0.521019
+new difference is 0.485519
+old difference is 0.485519
+new difference is 0.378712
+old difference is 0.378712
+new difference is 0.241812
+old difference is 0.241812
+new difference is 0.234079
+old difference is 0.234079
+new difference is 0.182501
+old difference is 0.182501
+new difference is 0.124919
+old difference is 0.124919
+new difference is 0.123386
+old difference is 0.123386
+new difference is 0.120456
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.266911
+old difference is 0.266911
+new difference is 0.259285
+old difference is 0.259285
+new difference is 0.247421
+old difference is 0.247421
+new difference is 0.21984
+old difference is 0.21984
+new difference is 0.154866
+old difference is 0.154866
+new difference is 0.0199284
+old difference is 0.0199284
+new difference is 0.0172809
+old difference is 0.0172809
+new difference is 0.0166139
+old difference is 0.0166139
+new difference is 0.00498053
+object 2 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 3 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0338026
+old difference is 0.0338026
+new difference is 0.0254883
+old difference is 0.0254883
+new difference is 0.0202958
+object 4 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.231098
+old difference is 0.231098
+new difference is 0.225488
+old difference is 0.225488
+new difference is 0.220715
+old difference is 0.220715
+new difference is 0.199051
+old difference is 0.199051
+new difference is 0.161074
+old difference is 0.161074
+new difference is 0.0417693
+old difference is 0.0417693
+new difference is 0.0381867
+old difference is 0.0381867
+new difference is 0.00808549
+old difference is 0.00808549
+new difference is 0.00729854
+object 5 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.168025
+old difference is 0.168025
+new difference is 0.163548
+old difference is 0.163548
+new difference is 0.160489
+old difference is 0.160489
+new difference is 0.143237
+old difference is 0.143237
+new difference is 0.116944
+old difference is 0.116944
+new difference is 0.0373541
+old difference is 0.0373541
+new difference is 0.0212536
+old difference is 0.0212536
+new difference is 0.0117802
+object 6 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.09437
+old difference is 0.09437
+new difference is 0.0898375
+old difference is 0.0898375
+new difference is 0.0828242
+old difference is 0.0828242
+new difference is 0.0672056
+old difference is 0.0672056
+new difference is 0.0343952
+old difference is 0.0343952
+new difference is 0.00556744
+old difference is 0.00556744
+new difference is 0.00369085
+object 7 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.228352
+old difference is 0.228352
+new difference is 0.221625
+old difference is 0.221625
+new difference is 0.206525
+old difference is 0.206525
+new difference is 0.184639
+old difference is 0.184639
+new difference is 0.121873
+old difference is 0.121873
+new difference is 0.081013
+old difference is 0.081013
+new difference is 0.0785745
+old difference is 0.0785745
+new difference is 0.0584401
+old difference is 0.0584401
+new difference is 0.0389669
+old difference is 0.0389669
+new difference is 0.0310659
+object 8 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.00363251
+old difference is 0.00363251
+new difference is 0.002928
+old difference is 0.002928
+new difference is 0.00258245
+old difference is 0.00258245
+new difference is 0.00144864
+object 9 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0348701
+old difference is 0.0348701
+new difference is 0.0245418
+object 10 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.031649
+old difference is 0.031649
+new difference is 0.0309274
+old difference is 0.0309274
+new difference is 0.024011
+object 11 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 12 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0634946
+old difference is 0.0634946
+new difference is 0.05255
+old difference is 0.05255
+new difference is 0.0292568
+object 13 has been classified as sander
+in OR pipeline
+grayscaled
+ did morphological processing
+labeled regions
+got region vectors
+got region information
+got region features
+percent filled 0.333043 , 0.772254 , 291748
+old difference is 2.14748e+09
+new difference is 0.852986
+old difference is 0.852986
+new difference is 0.839648
+old difference is 0.839648
+new difference is 0.810391
+old difference is 0.810391
+new difference is 0.764752
+old difference is 0.764752
+new difference is 0.627421
+old difference is 0.627421
+new difference is 0.411414
+old difference is 0.411414
+new difference is 0.400019
+old difference is 0.400019
+new difference is 0.347552
+old difference is 0.347552
+new difference is 0.237698
+old difference is 0.237698
+new difference is 0.124374
+old difference is 0.124374
+new difference is 0.124223
+old difference is 0.124223
+new difference is 0.12106
+old difference is 0.12106
+new difference is 0.120651
+old difference is 0.120651
+new difference is 0.119266
+object 0 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.545835
+old difference is 0.545835
+new difference is 0.535377
+old difference is 0.535377
+new difference is 0.511793
+old difference is 0.511793
+new difference is 0.476736
+old difference is 0.476736
+new difference is 0.371126
+old difference is 0.371126
+new difference is 0.238133
+old difference is 0.238133
+new difference is 0.230543
+old difference is 0.230543
+new difference is 0.178523
+old difference is 0.178523
+new difference is 0.123285
+object 1 has been classified as tbar
+old difference is 2.14748e+09
+new difference is 0.0817809
+old difference is 0.0817809
+new difference is 0.0774982
+old difference is 0.0774982
+new difference is 0.0703214
+old difference is 0.0703214
+new difference is 0.0559338
+old difference is 0.0559338
+new difference is 0.0248676
+old difference is 0.0248676
+new difference is 0.0121634
+old difference is 0.0121634
+new difference is 0.0088918
+old difference is 0.0088918
+new difference is 0.00639884
+old difference is 0.00639884
+new difference is 0.000445052
+object 2 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.114136
+old difference is 0.114136
+new difference is 0.109684
+old difference is 0.109684
+new difference is 0.0989848
+old difference is 0.0989848
+new difference is 0.0854962
+old difference is 0.0854962
+new difference is 0.047662
+old difference is 0.047662
+new difference is 0.0299584
+old difference is 0.0299584
+new difference is 0.0275432
+object 3 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.0543825
+old difference is 0.0543825
+new difference is 0.0522751
+old difference is 0.0522751
+new difference is 0.051942
+old difference is 0.051942
+new difference is 0.044326
+old difference is 0.044326
+new difference is 0.0411521
+old difference is 0.0411521
+new difference is 0.012435
+old difference is 0.012435
+new difference is 0.00695631
+object 4 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.020374
+old difference is 0.020374
+new difference is 0.0185626
+old difference is 0.0185626
+new difference is 0.0143204
+old difference is 0.0143204
+new difference is 0.00993904
+old difference is 0.00993904
+new difference is 0.00312501
+object 5 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.12723
+old difference is 0.12723
+new difference is 0.123265
+old difference is 0.123265
+new difference is 0.120429
+old difference is 0.120429
+new difference is 0.105433
+old difference is 0.105433
+new difference is 0.0835728
+old difference is 0.0835728
+new difference is 0.0294244
+old difference is 0.0294244
+new difference is 0.0201931
+old difference is 0.0201931
+new difference is 0.0101481
+object 6 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.102624
+old difference is 0.102624
+new difference is 0.0978085
+old difference is 0.0978085
+new difference is 0.0894944
+old difference is 0.0894944
+new difference is 0.073192
+old difference is 0.073192
+new difference is 0.0361243
+old difference is 0.0361243
+new difference is 0.00927061
+old difference is 0.00927061
+new difference is 0.001814
+object 7 has been classified as shovel
+old difference is 2.14748e+09
+new difference is 0.00505472
+old difference is 0.00505472
+new difference is 0.00496563
+old difference is 0.00496563
+new difference is 0.00218873
+object 8 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0447786
+old difference is 0.0447786
+new difference is 0.0428405
+old difference is 0.0428405
+new difference is 0.0391079
+old difference is 0.0391079
+new difference is 0.0367483
+old difference is 0.0367483
+new difference is 0.0326657
+old difference is 0.0326657
+new difference is 0.0219967
+object 9 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0344039
+old difference is 0.0344039
+new difference is 0.0316609
+old difference is 0.0316609
+new difference is 0.0273615
+old difference is 0.0273615
+new difference is 0.0187069
+old difference is 0.0187069
+new difference is 0.00436212
+old difference is 0.00436212
+new difference is 0.00205208
+old difference is 0.00205208
+new difference is 0.00156536
+old difference is 0.00156536
+new difference is 0.00138112
+object 10 has been classified as sander
+old difference is 2.14748e+09
+new difference is 0.0718302
+old difference is 0.0718302
+new difference is 0.0689867
+old difference is 0.0689867
+new difference is 0.0661747
+old difference is 0.0661747
+new difference is 0.0608262
+old difference is 0.0608262
+new difference is 0.053553
+old difference is 0.053553
+new difference is 0.0324742
+old difference is 0.0324742
+new difference is 0.0290201
+object 11 has been classified as paddle
+old difference is 2.14748e+09
+new difference is 0.0419627
+old difference is 0.0419627
+new difference is 0.0406816
+old difference is 0.0406816
+new difference is 0.034288
+old difference is 0.034288
+new difference is 0.0340067
+old difference is 0.0340067
+new difference is 0.0299599
+object 12 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.0235046
+old difference is 0.0235046
+new difference is 0.0151204
+object 13 has been classified as donut
+old difference is 2.14748e+09
+new difference is 0.112077
+old difference is 0.112077
+new difference is 0.107995
+old difference is 0.107995
+new difference is 0.10779
+old difference is 0.10779
+new difference is 0.0974151
+old difference is 0.0974151
+new difference is 0.0855797
+old difference is 0.0855797
+new difference is 0.0508882
+old difference is 0.0508882
+new difference is 0.0364329
+object 14 has been classified as paddle
+Terminating
