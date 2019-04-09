@@ -1,8 +1,4 @@
-/*
-	Bruce A. Maxwell
-	S19
-	Simple example of video capture and manipulation
-	Based on OpenCV tutorials
+/*ssssss
 
 	Compile command (macos)
 
@@ -21,7 +17,7 @@
 #include <unistd.h>
 #include <string>
 
-std::vector<std::vector<cv::Point2f>> cornersLists_forCalibration;
+std::vector<std::vector<cv::Vec2f>> cornersLists_forCalibration;
 std::vector<cv::Mat> frameList_forCalibration;
 
 enum Video_state{
@@ -29,33 +25,17 @@ enum Video_state{
 	CLASSIFYING,
 };
 
-std::vector<cv::Point3f> createPointSet(int rows, int cols){
-	std::vector<cv::Point3f> result;
-	for(int i =0; i < rows; i++){
-		for(int j = 0; j < cols; j++){
-			cv::Point3f p(i, j, 0);
+std::vector<cv::Vec3f> createPointSet(int rows, int cols){
+	std::vector<cv::Vec3f> result;
+	for(int i =0; i < cols; i++){
+		for(int j = 0; j < rows; j++){
+			std::cout << i << j << std::endl;
+			cv::Vec3f p(i, cols - j - 1, 0);
 			result.push_back(p);
 		}
 	}
 	return result;
 }
-
-void addLabel(Region_features features, cv::Mat displayed, std::string label){
-	point centroid = features.centroid;
-	char feature_text[100];
-	cv::circle(displayed, cv::Point(centroid.x, centroid.y), 3, cv::Scalar(0, 255, 255));
-	cv::putText(displayed, label, cv::Point(centroid.x + 5, centroid.y),  cv::FONT_HERSHEY_SIMPLEX, 0.75, cv::Scalar(0, 255, 0), 1);
-	if(features.features.size() == 3){
-		sprintf(feature_text, "%5.1f, %5.1f, %5.1f", features.features[0], features.features[1], features.features[2]);
-		cv::putText(displayed, std::string(feature_text), cv::Point(centroid.x, centroid.y + 25), cv::FONT_HERSHEY_SIMPLEX, 0.5, cv::Scalar(160, 255, 0), 1);
-	}
-	else {
-		std::cout << features.features.size();
-	}
-}
-
-
-
 
 int main(int argc, char *argv[]) {
 	cv::VideoCapture *capdev;
@@ -69,21 +49,12 @@ int main(int argc, char *argv[]) {
 	std::string name;
 	pars.push_back(5);
 
-	// if( argc < 3 ) {
-	//     printf("Usage: %s <label> <database>\n", argv[0]);
-	//     exit(-1);
-	// }
-
 	// open the video device
 	capdev = new cv::VideoCapture(0);
 	if( !capdev->isOpened() ) {
 		printf("Unable to open video device\n");
 		return(-1);
 	}
-
-	// strcpy(label, argv[1]);
-	// strcpy(database_name, argv[2]);
-	// database_read(database_name, &d);
 
 	cv::Size refS( (int) capdev->get(cv::CAP_PROP_FRAME_WIDTH ),
 		       (int) capdev->get(cv::CAP_PROP_FRAME_HEIGHT));
@@ -92,15 +63,12 @@ int main(int argc, char *argv[]) {
 	cv::Mat frame;
     cv::Mat src;
 	Video_state video_state = WAITING;
-	std::vector<cv::Point3f> point_set = createPointSet(9,6);
-	std::cout << point_set << std::endl;
+
+	std::vector<cv::Vec3f> point_set = createPointSet(9,6);
+	std::vector<std::vector<cv::Vec3f>> point_list;
+
+	// std::cout << point_set << std::endl;
 	for(;!quit;) {
-
-
-		/** from the OPEN CV docs**/
-
-
-
 
 		 *capdev >> src; // get a new frame from the camera, treat as a stream
 
@@ -113,7 +81,7 @@ int main(int argc, char *argv[]) {
 
 
 		cv::Size patternsize(9,6); //interior number of corners
-		std::vector<cv::Point2f> corners; //this will be filled by the detected corners
+		std::vector<cv::Vec2f> corners; //this will be filled by the detected corners
 
 		//CALIB_CB_FAST_CHECK saves a lot of time on images
 		//that do not contain any chessboard corners
@@ -125,25 +93,77 @@ int main(int argc, char *argv[]) {
 		cv::cornerSubPix(gray, corners, cv::Size(11, 11), cv::Size(-1, -1),
 			cv::TermCriteria(CV_TERMCRIT_EPS + CV_TERMCRIT_ITER, 30, 0.1));
 
-
-
-
 		cv::drawChessboardCorners(src, patternsize, cv::Mat(corners), patternfound);
-		std::cout << corners << std::endl;
-
-
+		// std::cout << corners << std::endl;
 
 		cv::imshow("Video", src);
 		//std::cout << "showed frame" << std::endl;
 		int key = cv::waitKey(10);
 
-
 		//std::cout << "pressed key" << (char) (key) << std::endl;
 		switch(key) {
 		case 's':
-			cornersLists_forCalibration.push_back(corners);
-			//frameList_forCalibration(gray);
+			if (corners.size() !=  54){
+			 	std::cout << " not callibrated " <<std::endl;
+			 }
+			 else {
+				std::cout << " saving " <<std::endl;
+				cornersLists_forCalibration.push_back(corners);
+				frameList_forCalibration.push_back(gray);
+				point_list.push_back(point_set);
+			 }
 		 	break;
+		case 'c': {
+			if (cornersLists_forCalibration.size()>= 5){
+				//cv::Mat camera_matrix = initCamera_matrix(gray);
+				double init_data[3][3] = { {1, 0, double(gray.cols)/2}, {0, 1, double(gray.rows)/2}, {0, 0, 1}};
+				cv::Mat camera_matrix =  cv::Mat( 3, 3, CV_64FC1, init_data);
+				
+				cv::Mat distCoeffs = cv::Mat::zeros(8, 1 , CV_64FC1);
+				//std::vector<double> distCoeffs;
+				std::vector<cv::Mat> rvecs, tvecs;
+					for(int i =0; i < 15; i++){
+						std::cout << point_list[0][i]<< ", " <<  cornersLists_forCalibration[0][i] << std::endl;
+					}
+				// std::cout << "point list is " << point_list[0][1] << ", " <<  cornersLists_forCalibration[0][1] << std::endl;
+				// std::cout << "cornersLists is " << cornersLists_forCalibration.size() << ", " << cornersLists_forCalibration[0].size() << std::endl;
+				double error = cv::calibrateCamera(point_list, cornersLists_forCalibration,
+								 gray.size(), camera_matrix, 
+								distCoeffs, rvecs, tvecs );
+				std::cout << "error is " << error << std::endl;
+
+				std::cout << "save? y/n" << std::endl;
+				std::string input;
+				std::cin >> input;
+				if(input == "y"){
+					std::ofstream file;
+					file.open("output.csv");
+					
+					file << "coeffs, ";
+					for (auto it = distCoeffs.begin<double>(); it != distCoeffs.end<double>(); ++it){
+						double val = (*it);
+						file << val << ',';
+					} 
+					file << "\ncamera matrix, ";
+
+					for (auto it = camera_matrix.begin<double>(); it != camera_matrix.end<double>(); ++it){
+						double val = (*it);
+						file << val << ',';
+					} 
+					
+					file << "\nerror, " << error ;
+					file.close();
+				}
+
+			}
+			else {
+				std::cout << " need more callibration images " <<std::endl;
+
+			}
+	
+
+		 	break;
+		}
 		case 'q':
 		    quit = 1;
 		    break;

@@ -31,17 +31,11 @@ LDLIBS = -lopencv_core -lopencv_highgui -lopencv_video -lopencv_videoio -lopencv
 
 BINDIR = ../bin
 
-vid: vidDisplay.o OR_pipeline.o database.o
+vid: vidDisplay.o 
 	$(CC) $^ -o $(BINDIR)/$@ $(LDFLAGS) $(LDLIBS)	
 
-img: imgDisplay.o OR_pipeline.o database.o
-	$(CC) $^ -o $(BINDIR)/$@ $(LDFLAGS) $(LDLIBS)
-
-classImg: classifyImages.o OR_pipeline.o database.o
-	$(CC) $^ -o $(BINDIR)/$@ $(LDFLAGS) $(LDLIBS)
-
-confusion: computeConfusionMatrix.o OR_pipeline.o database.o
-	$(CC) $^ -o $(BINDIR)/$@ $(LDFLAGS) $(LDLIBS)
+ar: ar.o 
+	$(CC) $^ -o $(BINDIR)/$@ $(LDFLAGS) $(LDLIBS)	
 
 clean:
 	rm -f *.o *~ 
