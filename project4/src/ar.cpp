@@ -20,6 +20,12 @@
 #include <fstream>
 #include "database.h"
 
+#define CHESSBOARD 0
+#define HARRIS_CORNERS 1
+#define ORB 2
+
+#define KEY_POINTS CHESSBOARD
+
 
 std::vector<cv::Vec3f> createPointSet(int rows, int cols){
 	std::vector<cv::Vec3f> result;
@@ -41,6 +47,16 @@ int main(int argc, char *argv[]) {
 	std::vector<int> pars;
 	std::string name;
 	pars.push_back(5);
+	int size;
+	std::vector<cv::Point3f> cube;
+	cube.push_back(cv::Point3f(0,-3,0));
+	cube.push_back(cv::Point3f(0,6,0));
+	cube.push_back(cv::Point3f(6,-3,0));
+	cube.push_back(cv::Point3f(6,6,0));
+	cube.push_back(cv::Point3f(0,-3,-3));
+	cube.push_back(cv::Point3f(0,6,-3));
+	cube.push_back(cv::Point3f(6,-3,-3));
+	cube.push_back(cv::Point3f(6,6,-3));
 
 	// open the video device
 	capdev = new cv::VideoCapture(0);
@@ -111,7 +127,9 @@ int main(int argc, char *argv[]) {
         }
     }
     file.close();
-	// std::cout << point_set << std::endl;
+
+    cv::createTrackbar("size:", "Video", &size, 5, NULL);
+
 	for(;!quit;) {
 
 		 *capdev >> src; // get a new frame from the camera, treat as a stream
@@ -141,41 +159,24 @@ int main(int argc, char *argv[]) {
 
             bool solvable = cv::solvePnP(point_set, corners, camera_matrix,distCoeffs, rvecs, tvecs );
 
-			// for (auto it = rvecs.begin<double>(); it != rvecs.end<double>(); ++it){
-			// 	double val = (*it);
-            //     std::cout << val << std::endl;
-            // }
-            //   std::cout << "tvecs" << std::endl;
 
-			// for (auto it = tvecs.begin<double>(); it != tvecs.end<double>(); ++it){
-			// 	double val = (*it);
-            //     std::cout << val << std::endl;
-            // }
-            // if (solvable){
-            //     std:
-            // }
 			if (solvable == 1){
-			// for (int i = 0; i < point_set.size(); i++){
-			// 		std::cout << point_set[i] << std::endl;
-			// }
-			std::vector<cv::Point3f> ps;
-			ps.push_back(cv::Point3f(0,-3,0));
-			ps.push_back(cv::Point3f(0,6,0));
-			ps.push_back(cv::Point3f(6,-3,0));
-			ps.push_back(cv::Point3f(6,6,0));
-			ps.push_back(cv::Point3f(0,-3,-3));
-			ps.push_back(cv::Point3f(0,6,-3));
-			ps.push_back(cv::Point3f(6,-3,-3));
-			ps.push_back(cv::Point3f(6,6,-3));
-				//project points
-			std::vector<cv::Point2f> projections;
-			cv::projectPoints(ps, rvecs, tvecs, camera_matrix, distCoeffs, projections );
-			// //for (int i = 0; i < 8; i++){
-			// 	cv::circle(src, projections[7], 3, cv::Scalar(0, 0, 255));
-			// //}
+
+				for(int i = 0; i < size; i++){
+					std::vector<cv::Point3f> local(cube);
+					for(auto it = local.begin(); it!= local.end(); it++){
+						
+						it -> x *= (1 - (i/float(size)));
+						it -> y *= (1 - (i/float(size)));
+						it -> z -= i * 2;
+					}
+					std::vector<cv::Point2f> projections;
+					cv::projectPoints(local, rvecs, tvecs, camera_matrix, distCoeffs, projections );
+					// for (int i = 0; i < 8; i++){
+					// 	cv::circle(src, projections[i], 3, cv::Scalar(0, 0, 255));
+					// }
 			
 
-		//	for (int i = 0; i < 8; i++){
 				cv::line(src, projections[7],  projections[6],  cv::Scalar(0, 0, 255), 4);
 				cv::line(src, projections[7],  projections[5],  cv::Scalar(0, 0, 255), 4);
 				cv::line(src, projections[6],  projections[4],  cv::Scalar(0, 0, 255), 4);
@@ -184,10 +185,10 @@ int main(int argc, char *argv[]) {
 				cv::line(src, projections[6],  projections[2],   cv::Scalar(0, 0, 255), 4);
 				cv::line(src, projections[5],  projections[1],   cv::Scalar(0, 0, 255), 4);
 				cv::line(src, projections[4],  projections[0],   cv::Scalar(0, 0, 255), 4);
-				// for (int i = 0; i < projections.size(); i++){
-				// 	std::cout << projections[i] << std::endl;
-				// }
+
+
 			}
+		}
 
         }
 

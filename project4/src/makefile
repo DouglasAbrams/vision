@@ -26,7 +26,7 @@ LDFLAGS = -L/usr/local/lib
 #LDFLAGS = -L/usr/lib/x86_64-linux-gnu # opencv libraries are here
 
 # opencv libraries
-LDLIBS = -lopencv_core -lopencv_highgui -lopencv_video -lopencv_videoio -lopencv_imgproc -lopencv_imgcodecs -lopencv_calib3d
+LDLIBS = -lopencv_core -lopencv_highgui -lopencv_video -lopencv_videoio -lopencv_imgproc -lopencv_imgcodecs -lopencv_calib3d -lopencv_features2d
 
 
 BINDIR = ../bin
@@ -35,6 +35,12 @@ vid: vidDisplay.o
 	$(CC) $^ -o $(BINDIR)/$@ $(LDFLAGS) $(LDLIBS)	
 
 ar: ar.o 
+	$(CC) $^ -o $(BINDIR)/$@ $(LDFLAGS) $(LDLIBS)	
+
+harris: harris_corners.o 
+	$(CC) $^ -o $(BINDIR)/$@ $(LDFLAGS) $(LDLIBS)	
+
+orb: orb.o 
 	$(CC) $^ -o $(BINDIR)/$@ $(LDFLAGS) $(LDLIBS)	
 
 clean:
